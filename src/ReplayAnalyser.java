@@ -1,3 +1,4 @@
+import javax.swing.*;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
@@ -41,7 +42,7 @@ public class ReplayAnalyser {
 
     @Override
     public String toString() {
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         sb.append("Map height " + mapHeight + ", width " + mapWidth + "\n");
 
         int frame = 1;
@@ -55,6 +56,11 @@ public class ReplayAnalyser {
 
     public static void main(String[] args) {
         ReplayAnalyser ra = new ReplayAnalyser("HES002E.txt");
-        System.out.println(ra);
+
+        DisplayPanel panel = new DisplayPanel(ra);
+
+        SwingUtilities.invokeLater(new DrawGUI(panel));
+
+        panel.updatePositions();
     }
 }
