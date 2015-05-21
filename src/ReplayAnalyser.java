@@ -8,12 +8,15 @@ import java.util.Scanner;
  * Created by megan on 20/05/2015.
  */
 public class ReplayAnalyser {
+    String file;
     int mapHeight, mapWidth;
+
     // Using a simple ArrayList since we record every frame and frames
     // increment by one each time.
     List<Position> positions = new ArrayList<Position>();
 
     public ReplayAnalyser(String file) {
+        this.file = file;
         try {
             Scanner scan = new Scanner(new File(file));
             scan.next("Map");
