@@ -1,42 +1,26 @@
 # Created by .ignore support plugin (hsz.mobi)
-### C++ template
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+### Java template
+*.class
 
-# Precompiled Headers
-*.gch
-*.pch
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Package Files #
+*.jar
+*.war
+*.ear
 
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
 
 
 ### JetBrains template
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion
 
-*.iml
+# *.iml
 
 ## Directory-based project format:
-#.idea/
+# .idea/
 # if you remove the above rule, at least ignore the following:
 
 # User-specific stuff:
