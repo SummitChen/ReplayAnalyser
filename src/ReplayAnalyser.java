@@ -58,12 +58,22 @@ public class ReplayAnalyser {
     }
 
     public static void main(String[] args) {
-        ReplayAnalyser ra = new ReplayAnalyser("HES002E.txt");
+        String basePath = "ReplayData/";
+        String outPath = "ReplayAnalysis/";
 
-        DisplayPanel panel = new DisplayPanel(ra);
+        for (int i = 2; i <= 28; i++ ) {
+            String file = "HES0";
+            if (i < 10) {
+                file += '0';
+            }
+            file += i + "E.txt";
+            ReplayAnalyser ra = new ReplayAnalyser(basePath + file);
 
-        //SwingUtilities.invokeLater(new DrawGUI(panel));
+            DisplayPanel panel = new DisplayPanel(ra);
 
-        panel.updatePositions();
+            //SwingUtilities.invokeLater(new DrawGUI(panel));
+
+            panel.updatePositions(outPath + file);
+        }
     }
 }
