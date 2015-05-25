@@ -67,6 +67,7 @@ public class DisplayPanel extends JPanel {
             e.printStackTrace();
         }
 
+        /*
         while (true) {
             try {
                 Thread.sleep(10);
@@ -81,5 +82,6 @@ public class DisplayPanel extends JPanel {
 
             repaint();
         }
+        */
     }
 }

@@ -1,0 +1,5865 @@
+Map 64 64
+Frame: 0
+Position: 9 55
+Frame: 1
+Position: 9 55
+Frame: 2
+Position: 9 55
+Frame: 3
+Position: 9 55
+Frame: 4
+Position: 9 55
+Frame: 5
+Position: 9 55
+Frame: 6
+Position: 9 55
+Frame: 7
+Position: 9 55
+Frame: 8
+Position: 9 55
+Frame: 9
+Position: 9 55
+Frame: 10
+Position: 9 55
+Frame: 11
+Position: 9 55
+Frame: 12
+Position: 9 55
+Frame: 13
+Position: 9 55
+Frame: 14
+Position: 9 55
+Frame: 15
+Position: 9 55
+Frame: 16
+Position: 9 55
+Frame: 17
+Position: 9 55
+Frame: 18
+Position: 9 55
+Frame: 19
+Position: 9 55
+Frame: 20
+Position: 9 55
+Frame: 21
+Position: 9 55
+Frame: 22
+Position: 9 55
+Frame: 23
+Position: 9 55
+Frame: 24
+Position: 9 55
+Frame: 25
+Position: 9 55
+Frame: 26
+Position: 9 55
+Frame: 27
+Position: 9 55
+Frame: 28
+Position: 9 55
+Frame: 29
+Position: 9 55
+Frame: 30
+Position: 9 55
+Frame: 31
+Position: 9 55
+Frame: 32
+Position: 9 55
+Frame: 33
+Position: 9 55
+Frame: 34
+Position: 9 55
+Frame: 35
+Position: 9 55
+Frame: 36
+Position: 9 55
+Frame: 37
+Position: 9 55
+Frame: 38
+Position: 9 55
+Frame: 39
+Position: 9 55
+Frame: 40
+Position: 9 55
+Frame: 41
+Position: 9 55
+Frame: 42
+Position: 9 55
+Frame: 43
+Position: 9 55
+Frame: 44
+Position: 9 55
+Frame: 45
+Position: 9 55
+Frame: 46
+Position: 9 55
+Frame: 47
+Position: 9 55
+Frame: 48
+Position: 9 55
+Frame: 49
+Position: 9 55
+Frame: 50
+Position: 9 55
+Frame: 51
+Position: 9 55
+Frame: 52
+Position: 9 55
+Frame: 53
+Position: 9 55
+Frame: 54
+Position: 9 55
+Frame: 55
+Position: 9 55
+Frame: 56
+Position: 9 55
+Frame: 57
+Position: 9 55
+Frame: 58
+Position: 9 55
+Frame: 59
+Position: 9 55
+Frame: 60
+Position: 9 55
+Frame: 61
+Position: 9 55
+Frame: 62
+Position: 9 55
+Frame: 63
+Position: 9 55
+Frame: 64
+Position: 9 55
+Frame: 65
+Position: 9 54
+Frame: 66
+Position: 9 54
+Frame: 67
+Position: 9 54
+Frame: 68
+Position: 9 54
+Frame: 69
+Position: 9 54
+Frame: 70
+Position: 9 54
+Frame: 71
+Position: 9 54
+Frame: 72
+Position: 9 54
+Frame: 73
+Position: 9 54
+Frame: 74
+Position: 9 54
+Frame: 75
+Position: 9 54
+Frame: 76
+Position: 9 53
+Frame: 77
+Position: 9 53
+Frame: 78
+Position: 9 53
+Frame: 79
+Position: 9 53
+Frame: 80
+Position: 9 53
+Frame: 81
+Position: 9 53
+Frame: 82
+Position: 9 53
+Frame: 83
+Position: 9 52
+Frame: 84
+Position: 9 52
+Frame: 85
+Position: 9 52
+Frame: 86
+Position: 9 52
+Frame: 87
+Position: 9 52
+Frame: 88
+Position: 9 52
+Frame: 89
+Position: 9 52
+Frame: 90
+Position: 9 52
+Frame: 91
+Position: 8 52
+Frame: 92
+Position: 8 52
+Frame: 93
+Position: 8 52
+Frame: 94
+Position: 8 52
+Frame: 95
+Position: 8 52
+Frame: 96
+Position: 8 52
+Frame: 97
+Position: 8 52
+Frame: 98
+Position: 8 52
+Frame: 99
+Position: 8 52
+Frame: 100
+Position: 8 52
+Frame: 101
+Position: 8 52
+Frame: 102
+Position: 8 52
+Frame: 103
+Position: 8 52
+Frame: 104
+Position: 8 52
+Frame: 105
+Position: 8 52
+Frame: 106
+Position: 8 52
+Frame: 107
+Position: 8 52
+Frame: 108
+Position: 8 52
+Frame: 109
+Position: 8 52
+Frame: 110
+Position: 8 52
+Frame: 111
+Position: 8 52
+Frame: 112
+Position: 8 52
+Frame: 113
+Position: 8 52
+Frame: 114
+Position: 8 52
+Frame: 115
+Position: 8 52
+Frame: 116
+Position: 8 52
+Frame: 117
+Position: 8 52
+Frame: 118
+Position: 8 52
+Frame: 119
+Position: 8 52
+Frame: 120
+Position: 8 52
+Frame: 121
+Position: 8 52
+Frame: 122
+Position: 8 52
+Frame: 123
+Position: 8 52
+Frame: 124
+Position: 8 52
+Frame: 125
+Position: 8 52
+Frame: 126
+Position: 8 52
+Frame: 127
+Position: 8 52
+Frame: 128
+Position: 8 52
+Frame: 129
+Position: 8 52
+Frame: 130
+Position: 8 52
+Frame: 131
+Position: 8 52
+Frame: 132
+Position: 8 52
+Frame: 133
+Position: 8 52
+Frame: 134
+Position: 8 52
+Frame: 135
+Position: 8 52
+Frame: 136
+Position: 8 52
+Frame: 137
+Position: 8 52
+Frame: 138
+Position: 8 52
+Frame: 139
+Position: 8 52
+Frame: 140
+Position: 8 52
+Frame: 141
+Position: 8 52
+Frame: 142
+Position: 8 52
+Frame: 143
+Position: 8 52
+Frame: 144
+Position: 8 52
+Frame: 145
+Position: 8 52
+Frame: 146
+Position: 8 52
+Frame: 147
+Position: 8 52
+Frame: 148
+Position: 8 52
+Frame: 149
+Position: 8 52
+Frame: 150
+Position: 8 52
+Frame: 151
+Position: 8 52
+Frame: 152
+Position: 8 52
+Frame: 153
+Position: 8 52
+Frame: 154
+Position: 8 52
+Frame: 155
+Position: 8 52
+Frame: 156
+Position: 8 52
+Frame: 157
+Position: 8 52
+Frame: 158
+Position: 8 52
+Frame: 159
+Position: 8 52
+Frame: 160
+Position: 8 52
+Frame: 161
+Position: 8 52
+Frame: 162
+Position: 8 52
+Frame: 163
+Position: 8 52
+Frame: 164
+Position: 8 52
+Frame: 165
+Position: 8 52
+Frame: 166
+Position: 8 52
+Frame: 167
+Position: 8 52
+Frame: 168
+Position: 8 52
+Frame: 169
+Position: 8 52
+Frame: 170
+Position: 8 52
+Frame: 171
+Position: 8 52
+Frame: 172
+Position: 8 52
+Frame: 173
+Position: 8 52
+Frame: 174
+Position: 8 52
+Frame: 175
+Position: 8 52
+Frame: 176
+Position: 8 52
+Frame: 177
+Position: 8 52
+Frame: 178
+Position: 8 52
+Frame: 179
+Position: 8 52
+Frame: 180
+Position: 8 52
+Frame: 181
+Position: 8 52
+Frame: 182
+Position: 8 52
+Frame: 183
+Position: 8 52
+Frame: 184
+Position: 8 52
+Frame: 185
+Position: 8 52
+Frame: 186
+Position: 8 52
+Frame: 187
+Position: 8 52
+Frame: 188
+Position: 8 52
+Frame: 189
+Position: 8 51
+Frame: 190
+Position: 8 51
+Frame: 191
+Position: 8 51
+Frame: 192
+Position: 8 51
+Frame: 193
+Position: 8 51
+Frame: 194
+Position: 8 51
+Frame: 195
+Position: 8 51
+Frame: 196
+Position: 8 51
+Frame: 197
+Position: 8 51
+Frame: 198
+Position: 8 51
+Frame: 199
+Position: 8 50
+Frame: 200
+Position: 8 50
+Frame: 201
+Position: 8 50
+Frame: 202
+Position: 9 50
+Frame: 203
+Position: 9 50
+Frame: 204
+Position: 9 50
+Frame: 205
+Position: 9 50
+Frame: 206
+Position: 9 50
+Frame: 207
+Position: 9 50
+Frame: 208
+Position: 9 49
+Frame: 209
+Position: 9 49
+Frame: 210
+Position: 9 49
+Frame: 211
+Position: 10 49
+Frame: 212
+Position: 10 49
+Frame: 213
+Position: 10 49
+Frame: 214
+Position: 10 49
+Frame: 215
+Position: 10 49
+Frame: 216
+Position: 10 49
+Frame: 217
+Position: 10 48
+Frame: 218
+Position: 10 48
+Frame: 219
+Position: 10 48
+Frame: 220
+Position: 10 48
+Frame: 221
+Position: 10 48
+Frame: 222
+Position: 10 48
+Frame: 223
+Position: 10 48
+Frame: 224
+Position: 10 48
+Frame: 225
+Position: 10 48
+Frame: 226
+Position: 10 47
+Frame: 227
+Position: 10 47
+Frame: 228
+Position: 9 47
+Frame: 229
+Position: 9 47
+Frame: 230
+Position: 9 47
+Frame: 231
+Position: 9 47
+Frame: 232
+Position: 9 47
+Frame: 233
+Position: 9 47
+Frame: 234
+Position: 9 47
+Frame: 235
+Position: 9 46
+Frame: 236
+Position: 9 46
+Frame: 237
+Position: 8 46
+Frame: 238
+Position: 8 46
+Frame: 239
+Position: 8 46
+Frame: 240
+Position: 8 46
+Frame: 241
+Position: 8 46
+Frame: 242
+Position: 8 46
+Frame: 243
+Position: 8 46
+Frame: 244
+Position: 8 46
+Frame: 245
+Position: 8 45
+Frame: 246
+Position: 7 45
+Frame: 247
+Position: 7 45
+Frame: 248
+Position: 7 45
+Frame: 249
+Position: 7 45
+Frame: 250
+Position: 7 45
+Frame: 251
+Position: 7 45
+Frame: 252
+Position: 7 45
+Frame: 253
+Position: 7 45
+Frame: 254
+Position: 6 45
+Frame: 255
+Position: 6 45
+Frame: 256
+Position: 6 45
+Frame: 257
+Position: 6 44
+Frame: 258
+Position: 6 44
+Frame: 259
+Position: 6 44
+Frame: 260
+Position: 6 44
+Frame: 261
+Position: 5 44
+Frame: 262
+Position: 5 44
+Frame: 263
+Position: 5 44
+Frame: 264
+Position: 5 44
+Frame: 265
+Position: 5 44
+Frame: 266
+Position: 5 44
+Frame: 267
+Position: 5 44
+Frame: 268
+Position: 4 44
+Frame: 269
+Position: 4 44
+Frame: 270
+Position: 4 44
+Frame: 271
+Position: 4 44
+Frame: 272
+Position: 4 44
+Frame: 273
+Position: 4 44
+Frame: 274
+Position: 3 44
+Frame: 275
+Position: 3 44
+Frame: 276
+Position: 3 44
+Frame: 277
+Position: 3 44
+Frame: 278
+Position: 3 43
+Frame: 279
+Position: 3 43
+Frame: 280
+Position: 3 43
+Frame: 281
+Position: 2 43
+Frame: 282
+Position: 2 43
+Frame: 283
+Position: 2 43
+Frame: 284
+Position: 2 43
+Frame: 285
+Position: 2 43
+Frame: 286
+Position: 2 43
+Frame: 287
+Position: 2 43
+Frame: 288
+Position: 2 43
+Frame: 289
+Position: 1 43
+Frame: 290
+Position: 1 43
+Frame: 291
+Position: 1 42
+Frame: 292
+Position: 1 42
+Frame: 293
+Position: 1 42
+Frame: 294
+Position: 1 42
+Frame: 295
+Position: 1 42
+Frame: 296
+Position: 1 42
+Frame: 297
+Position: 1 42
+Frame: 298
+Position: 1 42
+Frame: 299
+Position: 1 42
+Frame: 300
+Position: 1 42
+Frame: 301
+Position: 2 42
+Frame: 302
+Position: 2 42
+Frame: 303
+Position: 2 42
+Frame: 304
+Position: 2 42
+Frame: 305
+Position: 2 42
+Frame: 306
+Position: 2 42
+Frame: 307
+Position: 2 42
+Frame: 308
+Position: 2 42
+Frame: 309
+Position: 3 42
+Frame: 310
+Position: 3 42
+Frame: 311
+Position: 3 42
+Frame: 312
+Position: 3 43
+Frame: 313
+Position: 3 43
+Frame: 314
+Position: 3 43
+Frame: 315
+Position: 3 43
+Frame: 316
+Position: 3 43
+Frame: 317
+Position: 3 43
+Frame: 318
+Position: 4 43
+Frame: 319
+Position: 4 43
+Frame: 320
+Position: 4 43
+Frame: 321
+Position: 4 43
+Frame: 322
+Position: 4 43
+Frame: 323
+Position: 4 43
+Frame: 324
+Position: 4 43
+Frame: 325
+Position: 5 43
+Frame: 326
+Position: 5 43
+Frame: 327
+Position: 5 43
+Frame: 328
+Position: 5 44
+Frame: 329
+Position: 5 44
+Frame: 330
+Position: 5 44
+Frame: 331
+Position: 5 44
+Frame: 332
+Position: 5 44
+Frame: 333
+Position: 5 44
+Frame: 334
+Position: 5 44
+Frame: 335
+Position: 5 44
+Frame: 336
+Position: 6 44
+Frame: 337
+Position: 6 44
+Frame: 338
+Position: 6 44
+Frame: 339
+Position: 6 44
+Frame: 340
+Position: 6 44
+Frame: 341
+Position: 6 44
+Frame: 342
+Position: 7 44
+Frame: 343
+Position: 7 44
+Frame: 344
+Position: 7 44
+Frame: 345
+Position: 7 44
+Frame: 346
+Position: 7 44
+Frame: 347
+Position: 7 44
+Frame: 348
+Position: 7 44
+Frame: 349
+Position: 8 44
+Frame: 350
+Position: 8 44
+Frame: 351
+Position: 8 44
+Frame: 352
+Position: 8 44
+Frame: 353
+Position: 8 44
+Frame: 354
+Position: 8 44
+Frame: 355
+Position: 9 44
+Frame: 356
+Position: 9 44
+Frame: 357
+Position: 9 44
+Frame: 358
+Position: 9 44
+Frame: 359
+Position: 9 44
+Frame: 360
+Position: 9 44
+Frame: 361
+Position: 9 44
+Frame: 362
+Position: 9 44
+Frame: 363
+Position: 10 44
+Frame: 364
+Position: 10 44
+Frame: 365
+Position: 10 44
+Frame: 366
+Position: 10 44
+Frame: 367
+Position: 10 44
+Frame: 368
+Position: 10 44
+Frame: 369
+Position: 10 44
+Frame: 370
+Position: 11 43
+Frame: 371
+Position: 11 43
+Frame: 372
+Position: 11 43
+Frame: 373
+Position: 11 43
+Frame: 374
+Position: 11 43
+Frame: 375
+Position: 11 43
+Frame: 376
+Position: 12 43
+Frame: 377
+Position: 12 43
+Frame: 378
+Position: 12 43
+Frame: 379
+Position: 12 43
+Frame: 380
+Position: 12 43
+Frame: 381
+Position: 12 43
+Frame: 382
+Position: 12 43
+Frame: 383
+Position: 13 43
+Frame: 384
+Position: 13 43
+Frame: 385
+Position: 13 43
+Frame: 386
+Position: 13 43
+Frame: 387
+Position: 13 43
+Frame: 388
+Position: 13 42
+Frame: 389
+Position: 13 42
+Frame: 390
+Position: 13 42
+Frame: 391
+Position: 14 42
+Frame: 392
+Position: 14 42
+Frame: 393
+Position: 14 42
+Frame: 394
+Position: 14 42
+Frame: 395
+Position: 14 42
+Frame: 396
+Position: 14 42
+Frame: 397
+Position: 15 42
+Frame: 398
+Position: 15 42
+Frame: 399
+Position: 15 42
+Frame: 400
+Position: 15 42
+Frame: 401
+Position: 15 42
+Frame: 402
+Position: 15 42
+Frame: 403
+Position: 15 42
+Frame: 404
+Position: 16 42
+Frame: 405
+Position: 16 42
+Frame: 406
+Position: 16 42
+Frame: 407
+Position: 16 42
+Frame: 408
+Position: 16 42
+Frame: 409
+Position: 16 42
+Frame: 410
+Position: 17 42
+Frame: 411
+Position: 17 42
+Frame: 412
+Position: 17 42
+Frame: 413
+Position: 17 42
+Frame: 414
+Position: 17 42
+Frame: 415
+Position: 17 42
+Frame: 416
+Position: 17 42
+Frame: 417
+Position: 18 42
+Frame: 418
+Position: 18 42
+Frame: 419
+Position: 18 42
+Frame: 420
+Position: 18 42
+Frame: 421
+Position: 18 42
+Frame: 422
+Position: 18 42
+Frame: 423
+Position: 18 42
+Frame: 424
+Position: 18 42
+Frame: 425
+Position: 18 42
+Frame: 426
+Position: 18 42
+Frame: 427
+Position: 18 42
+Frame: 428
+Position: 18 42
+Frame: 429
+Position: 18 42
+Frame: 430
+Position: 18 42
+Frame: 431
+Position: 18 42
+Frame: 432
+Position: 18 42
+Frame: 433
+Position: 18 42
+Frame: 434
+Position: 18 42
+Frame: 435
+Position: 18 42
+Frame: 436
+Position: 18 42
+Frame: 437
+Position: 18 42
+Frame: 438
+Position: 18 42
+Frame: 439
+Position: 18 42
+Frame: 440
+Position: 18 42
+Frame: 441
+Position: 18 42
+Frame: 442
+Position: 18 42
+Frame: 443
+Position: 18 42
+Frame: 444
+Position: 18 42
+Frame: 445
+Position: 18 42
+Frame: 446
+Position: 18 42
+Frame: 447
+Position: 18 42
+Frame: 448
+Position: 18 42
+Frame: 449
+Position: 18 42
+Frame: 450
+Position: 18 42
+Frame: 451
+Position: 18 42
+Frame: 452
+Position: 18 42
+Frame: 453
+Position: 18 42
+Frame: 454
+Position: 18 42
+Frame: 455
+Position: 18 42
+Frame: 456
+Position: 18 42
+Frame: 457
+Position: 18 42
+Frame: 458
+Position: 18 42
+Frame: 459
+Position: 18 42
+Frame: 460
+Position: 18 42
+Frame: 461
+Position: 18 42
+Frame: 462
+Position: 18 42
+Frame: 463
+Position: 18 42
+Frame: 464
+Position: 18 42
+Frame: 465
+Position: 18 42
+Frame: 466
+Position: 18 42
+Frame: 467
+Position: 18 42
+Frame: 468
+Position: 18 42
+Frame: 469
+Position: 18 42
+Frame: 470
+Position: 18 42
+Frame: 471
+Position: 18 42
+Frame: 472
+Position: 18 42
+Frame: 473
+Position: 18 42
+Frame: 474
+Position: 18 42
+Frame: 475
+Position: 18 42
+Frame: 476
+Position: 18 42
+Frame: 477
+Position: 18 42
+Frame: 478
+Position: 18 42
+Frame: 479
+Position: 18 42
+Frame: 480
+Position: 18 42
+Frame: 481
+Position: 18 43
+Frame: 482
+Position: 18 43
+Frame: 483
+Position: 18 43
+Frame: 484
+Position: 18 43
+Frame: 485
+Position: 18 43
+Frame: 486
+Position: 18 43
+Frame: 487
+Position: 18 43
+Frame: 488
+Position: 18 43
+Frame: 489
+Position: 19 43
+Frame: 490
+Position: 19 44
+Frame: 491
+Position: 19 44
+Frame: 492
+Position: 19 44
+Frame: 493
+Position: 19 44
+Frame: 494
+Position: 19 44
+Frame: 495
+Position: 19 44
+Frame: 496
+Position: 19 44
+Frame: 497
+Position: 19 44
+Frame: 498
+Position: 20 44
+Frame: 499
+Position: 20 45
+Frame: 500
+Position: 20 45
+Frame: 501
+Position: 20 45
+Frame: 502
+Position: 20 45
+Frame: 503
+Position: 20 45
+Frame: 504
+Position: 20 45
+Frame: 505
+Position: 20 45
+Frame: 506
+Position: 20 45
+Frame: 507
+Position: 20 45
+Frame: 508
+Position: 20 46
+Frame: 509
+Position: 20 46
+Frame: 510
+Position: 20 46
+Frame: 511
+Position: 20 46
+Frame: 512
+Position: 20 46
+Frame: 513
+Position: 20 46
+Frame: 514
+Position: 20 46
+Frame: 515
+Position: 20 46
+Frame: 516
+Position: 20 47
+Frame: 517
+Position: 20 47
+Frame: 518
+Position: 20 47
+Frame: 519
+Position: 20 47
+Frame: 520
+Position: 20 47
+Frame: 521
+Position: 20 47
+Frame: 522
+Position: 20 47
+Frame: 523
+Position: 20 47
+Frame: 524
+Position: 21 47
+Frame: 525
+Position: 21 47
+Frame: 526
+Position: 21 47
+Frame: 527
+Position: 21 47
+Frame: 528
+Position: 21 47
+Frame: 529
+Position: 21 47
+Frame: 530
+Position: 22 47
+Frame: 531
+Position: 22 47
+Frame: 532
+Position: 22 47
+Frame: 533
+Position: 22 47
+Frame: 534
+Position: 22 47
+Frame: 535
+Position: 22 47
+Frame: 536
+Position: 22 47
+Frame: 537
+Position: 23 47
+Frame: 538
+Position: 23 47
+Frame: 539
+Position: 23 47
+Frame: 540
+Position: 23 47
+Frame: 541
+Position: 23 47
+Frame: 542
+Position: 23 47
+Frame: 543
+Position: 24 47
+Frame: 544
+Position: 24 47
+Frame: 545
+Position: 24 47
+Frame: 546
+Position: 24 47
+Frame: 547
+Position: 24 47
+Frame: 548
+Position: 24 47
+Frame: 549
+Position: 24 47
+Frame: 550
+Position: 25 47
+Frame: 551
+Position: 25 47
+Frame: 552
+Position: 25 47
+Frame: 553
+Position: 25 47
+Frame: 554
+Position: 25 47
+Frame: 555
+Position: 25 47
+Frame: 556
+Position: 26 47
+Frame: 557
+Position: 26 47
+Frame: 558
+Position: 26 47
+Frame: 559
+Position: 26 47
+Frame: 560
+Position: 26 47
+Frame: 561
+Position: 26 47
+Frame: 562
+Position: 26 47
+Frame: 563
+Position: 27 47
+Frame: 564
+Position: 27 47
+Frame: 565
+Position: 27 46
+Frame: 566
+Position: 27 46
+Frame: 567
+Position: 27 46
+Frame: 568
+Position: 27 46
+Frame: 569
+Position: 28 46
+Frame: 570
+Position: 28 46
+Frame: 571
+Position: 28 46
+Frame: 572
+Position: 28 46
+Frame: 573
+Position: 28 46
+Frame: 574
+Position: 28 46
+Frame: 575
+Position: 28 46
+Frame: 576
+Position: 29 46
+Frame: 577
+Position: 29 46
+Frame: 578
+Position: 29 46
+Frame: 579
+Position: 29 46
+Frame: 580
+Position: 29 46
+Frame: 581
+Position: 29 46
+Frame: 582
+Position: 30 46
+Frame: 583
+Position: 30 46
+Frame: 584
+Position: 30 46
+Frame: 585
+Position: 30 47
+Frame: 586
+Position: 30 47
+Frame: 587
+Position: 30 47
+Frame: 588
+Position: 30 47
+Frame: 589
+Position: 30 47
+Frame: 590
+Position: 31 47
+Frame: 591
+Position: 31 47
+Frame: 592
+Position: 31 47
+Frame: 593
+Position: 31 47
+Frame: 594
+Position: 31 47
+Frame: 595
+Position: 31 47
+Frame: 596
+Position: 32 47
+Frame: 597
+Position: 32 47
+Frame: 598
+Position: 32 47
+Frame: 599
+Position: 32 47
+Frame: 600
+Position: 32 47
+Frame: 601
+Position: 32 47
+Frame: 602
+Position: 32 47
+Frame: 603
+Position: 33 47
+Frame: 604
+Position: 33 47
+Frame: 605
+Position: 33 47
+Frame: 606
+Position: 33 47
+Frame: 607
+Position: 33 47
+Frame: 608
+Position: 33 47
+Frame: 609
+Position: 34 47
+Frame: 610
+Position: 34 47
+Frame: 611
+Position: 34 47
+Frame: 612
+Position: 34 47
+Frame: 613
+Position: 34 47
+Frame: 614
+Position: 34 47
+Frame: 615
+Position: 34 47
+Frame: 616
+Position: 35 47
+Frame: 617
+Position: 35 47
+Frame: 618
+Position: 35 47
+Frame: 619
+Position: 35 47
+Frame: 620
+Position: 35 47
+Frame: 621
+Position: 35 47
+Frame: 622
+Position: 36 47
+Frame: 623
+Position: 36 47
+Frame: 624
+Position: 36 47
+Frame: 625
+Position: 36 47
+Frame: 626
+Position: 36 47
+Frame: 627
+Position: 36 47
+Frame: 628
+Position: 36 47
+Frame: 629
+Position: 37 47
+Frame: 630
+Position: 37 47
+Frame: 631
+Position: 37 47
+Frame: 632
+Position: 37 47
+Frame: 633
+Position: 37 47
+Frame: 634
+Position: 37 47
+Frame: 635
+Position: 37 48
+Frame: 636
+Position: 37 48
+Frame: 637
+Position: 37 48
+Frame: 638
+Position: 37 48
+Frame: 639
+Position: 37 48
+Frame: 640
+Position: 37 48
+Frame: 641
+Position: 36 48
+Frame: 642
+Position: 36 48
+Frame: 643
+Position: 36 48
+Frame: 644
+Position: 36 48
+Frame: 645
+Position: 36 48
+Frame: 646
+Position: 36 49
+Frame: 647
+Position: 36 49
+Frame: 648
+Position: 36 49
+Frame: 649
+Position: 36 49
+Frame: 650
+Position: 36 49
+Frame: 651
+Position: 36 49
+Frame: 652
+Position: 36 49
+Frame: 653
+Position: 35 49
+Frame: 654
+Position: 35 49
+Frame: 655
+Position: 35 49
+Frame: 656
+Position: 35 49
+Frame: 657
+Position: 35 49
+Frame: 658
+Position: 35 49
+Frame: 659
+Position: 35 49
+Frame: 660
+Position: 35 49
+Frame: 661
+Position: 35 49
+Frame: 662
+Position: 35 49
+Frame: 663
+Position: 35 49
+Frame: 664
+Position: 35 49
+Frame: 665
+Position: 35 49
+Frame: 666
+Position: 35 49
+Frame: 667
+Position: 35 49
+Frame: 668
+Position: 35 49
+Frame: 669
+Position: 35 49
+Frame: 670
+Position: 35 49
+Frame: 671
+Position: 35 49
+Frame: 672
+Position: 35 49
+Frame: 673
+Position: 35 49
+Frame: 674
+Position: 35 49
+Frame: 675
+Position: 35 49
+Frame: 676
+Position: 35 49
+Frame: 677
+Position: 35 49
+Frame: 678
+Position: 35 49
+Frame: 679
+Position: 35 49
+Frame: 680
+Position: 35 49
+Frame: 681
+Position: 35 49
+Frame: 682
+Position: 35 49
+Frame: 683
+Position: 35 49
+Frame: 684
+Position: 35 50
+Frame: 685
+Position: 35 50
+Frame: 686
+Position: 35 50
+Frame: 687
+Position: 35 50
+Frame: 688
+Position: 34 50
+Frame: 689
+Position: 34 50
+Frame: 690
+Position: 34 50
+Frame: 691
+Position: 34 50
+Frame: 692
+Position: 34 50
+Frame: 693
+Position: 34 50
+Frame: 694
+Position: 34 51
+Frame: 695
+Position: 34 51
+Frame: 696
+Position: 34 51
+Frame: 697
+Position: 33 51
+Frame: 698
+Position: 33 51
+Frame: 699
+Position: 33 51
+Frame: 700
+Position: 33 51
+Frame: 701
+Position: 33 51
+Frame: 702
+Position: 33 52
+Frame: 703
+Position: 33 52
+Frame: 704
+Position: 33 52
+Frame: 705
+Position: 33 52
+Frame: 706
+Position: 33 52
+Frame: 707
+Position: 33 52
+Frame: 708
+Position: 33 53
+Frame: 709
+Position: 33 53
+Frame: 710
+Position: 33 53
+Frame: 711
+Position: 33 53
+Frame: 712
+Position: 33 53
+Frame: 713
+Position: 33 53
+Frame: 714
+Position: 33 53
+Frame: 715
+Position: 33 54
+Frame: 716
+Position: 33 54
+Frame: 717
+Position: 33 54
+Frame: 718
+Position: 33 54
+Frame: 719
+Position: 33 54
+Frame: 720
+Position: 33 54
+Frame: 721
+Position: 33 55
+Frame: 722
+Position: 33 55
+Frame: 723
+Position: 33 55
+Frame: 724
+Position: 33 55
+Frame: 725
+Position: 33 55
+Frame: 726
+Position: 33 55
+Frame: 727
+Position: 33 55
+Frame: 728
+Position: 33 55
+Frame: 729
+Position: 33 56
+Frame: 730
+Position: 33 56
+Frame: 731
+Position: 33 56
+Frame: 732
+Position: 33 56
+Frame: 733
+Position: 33 56
+Frame: 734
+Position: 33 56
+Frame: 735
+Position: 33 56
+Frame: 736
+Position: 33 56
+Frame: 737
+Position: 33 56
+Frame: 738
+Position: 33 56
+Frame: 739
+Position: 33 56
+Frame: 740
+Position: 33 57
+Frame: 741
+Position: 33 57
+Frame: 742
+Position: 33 57
+Frame: 743
+Position: 33 57
+Frame: 744
+Position: 33 57
+Frame: 745
+Position: 33 57
+Frame: 746
+Position: 33 57
+Frame: 747
+Position: 33 57
+Frame: 748
+Position: 33 57
+Frame: 749
+Position: 33 57
+Frame: 750
+Position: 33 57
+Frame: 751
+Position: 33 57
+Frame: 752
+Position: 33 57
+Frame: 753
+Position: 33 57
+Frame: 754
+Position: 33 57
+Frame: 755
+Position: 33 57
+Frame: 756
+Position: 33 57
+Frame: 757
+Position: 33 57
+Frame: 758
+Position: 33 57
+Frame: 759
+Position: 33 57
+Frame: 760
+Position: 33 57
+Frame: 761
+Position: 33 57
+Frame: 762
+Position: 33 57
+Frame: 763
+Position: 33 57
+Frame: 764
+Position: 32 57
+Frame: 765
+Position: 32 57
+Frame: 766
+Position: 32 57
+Frame: 767
+Position: 32 57
+Frame: 768
+Position: 32 57
+Frame: 769
+Position: 32 57
+Frame: 770
+Position: 32 57
+Frame: 771
+Position: 32 57
+Frame: 772
+Position: 32 57
+Frame: 773
+Position: 32 57
+Frame: 774
+Position: 32 57
+Frame: 775
+Position: 32 57
+Frame: 776
+Position: 32 57
+Frame: 777
+Position: 32 57
+Frame: 778
+Position: 31 57
+Frame: 779
+Position: 31 57
+Frame: 780
+Position: 31 57
+Frame: 781
+Position: 31 57
+Frame: 782
+Position: 31 57
+Frame: 783
+Position: 31 57
+Frame: 784
+Position: 30 57
+Frame: 785
+Position: 30 57
+Frame: 786
+Position: 30 57
+Frame: 787
+Position: 30 57
+Frame: 788
+Position: 30 57
+Frame: 789
+Position: 30 57
+Frame: 790
+Position: 30 57
+Frame: 791
+Position: 29 57
+Frame: 792
+Position: 29 57
+Frame: 793
+Position: 29 57
+Frame: 794
+Position: 29 57
+Frame: 795
+Position: 29 57
+Frame: 796
+Position: 29 57
+Frame: 797
+Position: 28 57
+Frame: 798
+Position: 28 57
+Frame: 799
+Position: 28 57
+Frame: 800
+Position: 28 57
+Frame: 801
+Position: 28 57
+Frame: 802
+Position: 28 57
+Frame: 803
+Position: 28 57
+Frame: 804
+Position: 27 57
+Frame: 805
+Position: 27 57
+Frame: 806
+Position: 27 57
+Frame: 807
+Position: 27 57
+Frame: 808
+Position: 27 57
+Frame: 809
+Position: 27 57
+Frame: 810
+Position: 26 57
+Frame: 811
+Position: 26 57
+Frame: 812
+Position: 26 57
+Frame: 813
+Position: 26 57
+Frame: 814
+Position: 26 57
+Frame: 815
+Position: 26 57
+Frame: 816
+Position: 26 57
+Frame: 817
+Position: 25 57
+Frame: 818
+Position: 25 57
+Frame: 819
+Position: 25 57
+Frame: 820
+Position: 25 57
+Frame: 821
+Position: 25 57
+Frame: 822
+Position: 25 57
+Frame: 823
+Position: 25 57
+Frame: 824
+Position: 25 57
+Frame: 825
+Position: 25 57
+Frame: 826
+Position: 25 57
+Frame: 827
+Position: 25 57
+Frame: 828
+Position: 25 57
+Frame: 829
+Position: 25 57
+Frame: 830
+Position: 25 57
+Frame: 831
+Position: 25 57
+Frame: 832
+Position: 25 57
+Frame: 833
+Position: 25 57
+Frame: 834
+Position: 25 57
+Frame: 835
+Position: 25 57
+Frame: 836
+Position: 25 57
+Frame: 837
+Position: 25 57
+Frame: 838
+Position: 25 57
+Frame: 839
+Position: 25 57
+Frame: 840
+Position: 25 57
+Frame: 841
+Position: 25 57
+Frame: 842
+Position: 25 57
+Frame: 843
+Position: 25 57
+Frame: 844
+Position: 25 57
+Frame: 845
+Position: 25 57
+Frame: 846
+Position: 25 57
+Frame: 847
+Position: 25 57
+Frame: 848
+Position: 26 58
+Frame: 849
+Position: 26 58
+Frame: 850
+Position: 26 58
+Frame: 851
+Position: 26 58
+Frame: 852
+Position: 26 58
+Frame: 853
+Position: 26 58
+Frame: 854
+Position: 26 58
+Frame: 855
+Position: 26 58
+Frame: 856
+Position: 26 58
+Frame: 857
+Position: 27 58
+Frame: 858
+Position: 27 59
+Frame: 859
+Position: 27 59
+Frame: 860
+Position: 27 59
+Frame: 861
+Position: 27 59
+Frame: 862
+Position: 27 59
+Frame: 863
+Position: 27 59
+Frame: 864
+Position: 27 59
+Frame: 865
+Position: 27 59
+Frame: 866
+Position: 27 60
+Frame: 867
+Position: 27 60
+Frame: 868
+Position: 27 60
+Frame: 869
+Position: 27 60
+Frame: 870
+Position: 27 60
+Frame: 871
+Position: 27 60
+Frame: 872
+Position: 27 61
+Frame: 873
+Position: 27 61
+Frame: 874
+Position: 27 61
+Frame: 875
+Position: 27 61
+Frame: 876
+Position: 27 61
+Frame: 877
+Position: 27 61
+Frame: 878
+Position: 27 61
+Frame: 879
+Position: 27 61
+Frame: 880
+Position: 27 61
+Frame: 881
+Position: 27 62
+Frame: 882
+Position: 27 62
+Frame: 883
+Position: 27 62
+Frame: 884
+Position: 27 62
+Frame: 885
+Position: 27 62
+Frame: 886
+Position: 27 62
+Frame: 887
+Position: 27 62
+Frame: 888
+Position: 27 62
+Frame: 889
+Position: 27 62
+Frame: 890
+Position: 27 62
+Frame: 891
+Position: 27 62
+Frame: 892
+Position: 27 62
+Frame: 893
+Position: 27 62
+Frame: 894
+Position: 27 62
+Frame: 895
+Position: 27 62
+Frame: 896
+Position: 27 62
+Frame: 897
+Position: 26 62
+Frame: 898
+Position: 26 62
+Frame: 899
+Position: 26 62
+Frame: 900
+Position: 26 62
+Frame: 901
+Position: 26 62
+Frame: 902
+Position: 26 62
+Frame: 903
+Position: 26 62
+Frame: 904
+Position: 26 62
+Frame: 905
+Position: 26 62
+Frame: 906
+Position: 26 62
+Frame: 907
+Position: 26 62
+Frame: 908
+Position: 25 62
+Frame: 909
+Position: 25 62
+Frame: 910
+Position: 25 62
+Frame: 911
+Position: 25 62
+Frame: 912
+Position: 25 62
+Frame: 913
+Position: 25 62
+Frame: 914
+Position: 24 62
+Frame: 915
+Position: 24 62
+Frame: 916
+Position: 24 62
+Frame: 917
+Position: 24 62
+Frame: 918
+Position: 24 62
+Frame: 919
+Position: 24 62
+Frame: 920
+Position: 24 62
+Frame: 921
+Position: 23 62
+Frame: 922
+Position: 23 62
+Frame: 923
+Position: 23 62
+Frame: 924
+Position: 23 62
+Frame: 925
+Position: 23 62
+Frame: 926
+Position: 23 62
+Frame: 927
+Position: 22 62
+Frame: 928
+Position: 22 62
+Frame: 929
+Position: 22 62
+Frame: 930
+Position: 22 62
+Frame: 931
+Position: 22 62
+Frame: 932
+Position: 22 62
+Frame: 933
+Position: 22 62
+Frame: 934
+Position: 21 62
+Frame: 935
+Position: 21 62
+Frame: 936
+Position: 21 62
+Frame: 937
+Position: 21 62
+Frame: 938
+Position: 21 62
+Frame: 939
+Position: 21 62
+Frame: 940
+Position: 20 62
+Frame: 941
+Position: 20 62
+Frame: 942
+Position: 20 62
+Frame: 943
+Position: 20 62
+Frame: 944
+Position: 20 62
+Frame: 945
+Position: 20 62
+Frame: 946
+Position: 20 62
+Frame: 947
+Position: 19 62
+Frame: 948
+Position: 19 62
+Frame: 949
+Position: 19 62
+Frame: 950
+Position: 19 62
+Frame: 951
+Position: 19 62
+Frame: 952
+Position: 19 62
+Frame: 953
+Position: 18 62
+Frame: 954
+Position: 18 62
+Frame: 955
+Position: 18 62
+Frame: 956
+Position: 18 62
+Frame: 957
+Position: 18 62
+Frame: 958
+Position: 18 61
+Frame: 959
+Position: 18 61
+Frame: 960
+Position: 18 61
+Frame: 961
+Position: 18 61
+Frame: 962
+Position: 18 61
+Frame: 963
+Position: 18 61
+Frame: 964
+Position: 18 61
+Frame: 965
+Position: 18 61
+Frame: 966
+Position: 19 61
+Frame: 967
+Position: 19 61
+Frame: 968
+Position: 19 60
+Frame: 969
+Position: 19 60
+Frame: 970
+Position: 19 60
+Frame: 971
+Position: 19 60
+Frame: 972
+Position: 19 60
+Frame: 973
+Position: 20 60
+Frame: 974
+Position: 20 60
+Frame: 975
+Position: 20 60
+Frame: 976
+Position: 20 60
+Frame: 977
+Position: 20 60
+Frame: 978
+Position: 20 60
+Frame: 979
+Position: 20 60
+Frame: 980
+Position: 20 60
+Frame: 981
+Position: 21 60
+Frame: 982
+Position: 21 60
+Frame: 983
+Position: 21 60
+Frame: 984
+Position: 21 60
+Frame: 985
+Position: 21 60
+Frame: 986
+Position: 21 60
+Frame: 987
+Position: 22 60
+Frame: 988
+Position: 22 60
+Frame: 989
+Position: 22 60
+Frame: 990
+Position: 22 60
+Frame: 991
+Position: 22 60
+Frame: 992
+Position: 22 59
+Frame: 993
+Position: 22 59
+Frame: 994
+Position: 22 59
+Frame: 995
+Position: 23 59
+Frame: 996
+Position: 23 59
+Frame: 997
+Position: 23 59
+Frame: 998
+Position: 23 59
+Frame: 999
+Position: 23 59
+Frame: 1000
+Position: 23 59
+Frame: 1001
+Position: 23 58
+Frame: 1002
+Position: 23 58
+Frame: 1003
+Position: 23 58
+Frame: 1004
+Position: 24 58
+Frame: 1005
+Position: 24 58
+Frame: 1006
+Position: 24 58
+Frame: 1007
+Position: 24 58
+Frame: 1008
+Position: 24 58
+Frame: 1009
+Position: 24 58
+Frame: 1010
+Position: 25 58
+Frame: 1011
+Position: 25 58
+Frame: 1012
+Position: 25 58
+Frame: 1013
+Position: 25 58
+Frame: 1014
+Position: 25 58
+Frame: 1015
+Position: 25 58
+Frame: 1016
+Position: 25 58
+Frame: 1017
+Position: 26 58
+Frame: 1018
+Position: 26 58
+Frame: 1019
+Position: 26 58
+Frame: 1020
+Position: 26 58
+Frame: 1021
+Position: 26 58
+Frame: 1022
+Position: 26 58
+Frame: 1023
+Position: 27 58
+Frame: 1024
+Position: 27 58
+Frame: 1025
+Position: 27 58
+Frame: 1026
+Position: 27 58
+Frame: 1027
+Position: 27 58
+Frame: 1028
+Position: 27 58
+Frame: 1029
+Position: 27 58
+Frame: 1030
+Position: 28 58
+Frame: 1031
+Position: 28 58
+Frame: 1032
+Position: 28 58
+Frame: 1033
+Position: 28 58
+Frame: 1034
+Position: 28 58
+Frame: 1035
+Position: 28 58
+Frame: 1036
+Position: 29 58
+Frame: 1037
+Position: 29 58
+Frame: 1038
+Position: 29 58
+Frame: 1039
+Position: 29 58
+Frame: 1040
+Position: 29 58
+Frame: 1041
+Position: 29 58
+Frame: 1042
+Position: 29 58
+Frame: 1043
+Position: 30 58
+Frame: 1044
+Position: 30 58
+Frame: 1045
+Position: 30 58
+Frame: 1046
+Position: 30 58
+Frame: 1047
+Position: 30 58
+Frame: 1048
+Position: 30 58
+Frame: 1049
+Position: 31 58
+Frame: 1050
+Position: 31 58
+Frame: 1051
+Position: 31 58
+Frame: 1052
+Position: 31 58
+Frame: 1053
+Position: 31 58
+Frame: 1054
+Position: 31 58
+Frame: 1055
+Position: 31 58
+Frame: 1056
+Position: 32 58
+Frame: 1057
+Position: 32 58
+Frame: 1058
+Position: 32 58
+Frame: 1059
+Position: 32 58
+Frame: 1060
+Position: 32 58
+Frame: 1061
+Position: 32 58
+Frame: 1062
+Position: 33 58
+Frame: 1063
+Position: 33 58
+Frame: 1064
+Position: 33 58
+Frame: 1065
+Position: 33 58
+Frame: 1066
+Position: 33 58
+Frame: 1067
+Position: 33 58
+Frame: 1068
+Position: 33 58
+Frame: 1069
+Position: 33 57
+Frame: 1070
+Position: 33 57
+Frame: 1071
+Position: 33 57
+Frame: 1072
+Position: 33 57
+Frame: 1073
+Position: 33 57
+Frame: 1074
+Position: 33 57
+Frame: 1075
+Position: 33 57
+Frame: 1076
+Position: 33 57
+Frame: 1077
+Position: 33 57
+Frame: 1078
+Position: 33 57
+Frame: 1079
+Position: 33 57
+Frame: 1080
+Position: 33 57
+Frame: 1081
+Position: 33 57
+Frame: 1082
+Position: 33 57
+Frame: 1083
+Position: 33 57
+Frame: 1084
+Position: 33 57
+Frame: 1085
+Position: 33 57
+Frame: 1086
+Position: 33 57
+Frame: 1087
+Position: 33 57
+Frame: 1088
+Position: 33 57
+Frame: 1089
+Position: 33 57
+Frame: 1090
+Position: 33 57
+Frame: 1091
+Position: 33 57
+Frame: 1092
+Position: 33 57
+Frame: 1093
+Position: 33 57
+Frame: 1094
+Position: 33 57
+Frame: 1095
+Position: 33 57
+Frame: 1096
+Position: 33 57
+Frame: 1097
+Position: 33 57
+Frame: 1098
+Position: 33 57
+Frame: 1099
+Position: 33 57
+Frame: 1100
+Position: 33 57
+Frame: 1101
+Position: 33 57
+Frame: 1102
+Position: 33 57
+Frame: 1103
+Position: 33 57
+Frame: 1104
+Position: 33 57
+Frame: 1105
+Position: 33 57
+Frame: 1106
+Position: 33 57
+Frame: 1107
+Position: 33 57
+Frame: 1108
+Position: 33 57
+Frame: 1109
+Position: 33 57
+Frame: 1110
+Position: 33 57
+Frame: 1111
+Position: 33 57
+Frame: 1112
+Position: 33 57
+Frame: 1113
+Position: 33 57
+Frame: 1114
+Position: 33 57
+Frame: 1115
+Position: 33 57
+Frame: 1116
+Position: 33 57
+Frame: 1117
+Position: 33 57
+Frame: 1118
+Position: 33 57
+Frame: 1119
+Position: 33 57
+Frame: 1120
+Position: 33 57
+Frame: 1121
+Position: 33 57
+Frame: 1122
+Position: 33 57
+Frame: 1123
+Position: 33 57
+Frame: 1124
+Position: 33 57
+Frame: 1125
+Position: 33 57
+Frame: 1126
+Position: 33 57
+Frame: 1127
+Position: 33 57
+Frame: 1128
+Position: 33 57
+Frame: 1129
+Position: 33 57
+Frame: 1130
+Position: 33 57
+Frame: 1131
+Position: 33 57
+Frame: 1132
+Position: 33 57
+Frame: 1133
+Position: 33 57
+Frame: 1134
+Position: 33 57
+Frame: 1135
+Position: 33 57
+Frame: 1136
+Position: 33 57
+Frame: 1137
+Position: 33 56
+Frame: 1138
+Position: 33 56
+Frame: 1139
+Position: 33 56
+Frame: 1140
+Position: 33 56
+Frame: 1141
+Position: 33 56
+Frame: 1142
+Position: 34 56
+Frame: 1143
+Position: 34 56
+Frame: 1144
+Position: 34 56
+Frame: 1145
+Position: 34 56
+Frame: 1146
+Position: 34 56
+Frame: 1147
+Position: 34 56
+Frame: 1148
+Position: 34 56
+Frame: 1149
+Position: 34 56
+Frame: 1150
+Position: 34 55
+Frame: 1151
+Position: 35 55
+Frame: 1152
+Position: 35 55
+Frame: 1153
+Position: 35 55
+Frame: 1154
+Position: 35 55
+Frame: 1155
+Position: 35 55
+Frame: 1156
+Position: 35 55
+Frame: 1157
+Position: 35 55
+Frame: 1158
+Position: 35 55
+Frame: 1159
+Position: 36 55
+Frame: 1160
+Position: 36 55
+Frame: 1161
+Position: 36 55
+Frame: 1162
+Position: 36 55
+Frame: 1163
+Position: 36 55
+Frame: 1164
+Position: 36 55
+Frame: 1165
+Position: 36 55
+Frame: 1166
+Position: 36 54
+Frame: 1167
+Position: 36 54
+Frame: 1168
+Position: 37 54
+Frame: 1169
+Position: 37 54
+Frame: 1170
+Position: 37 54
+Frame: 1171
+Position: 37 54
+Frame: 1172
+Position: 37 54
+Frame: 1173
+Position: 37 54
+Frame: 1174
+Position: 37 54
+Frame: 1175
+Position: 37 54
+Frame: 1176
+Position: 37 53
+Frame: 1177
+Position: 38 53
+Frame: 1178
+Position: 38 53
+Frame: 1179
+Position: 38 53
+Frame: 1180
+Position: 38 53
+Frame: 1181
+Position: 38 53
+Frame: 1182
+Position: 38 53
+Frame: 1183
+Position: 38 53
+Frame: 1184
+Position: 38 53
+Frame: 1185
+Position: 39 53
+Frame: 1186
+Position: 39 53
+Frame: 1187
+Position: 39 53
+Frame: 1188
+Position: 39 53
+Frame: 1189
+Position: 39 53
+Frame: 1190
+Position: 39 52
+Frame: 1191
+Position: 39 52
+Frame: 1192
+Position: 40 52
+Frame: 1193
+Position: 40 52
+Frame: 1194
+Position: 40 52
+Frame: 1195
+Position: 40 52
+Frame: 1196
+Position: 40 52
+Frame: 1197
+Position: 40 52
+Frame: 1198
+Position: 40 52
+Frame: 1199
+Position: 41 52
+Frame: 1200
+Position: 41 52
+Frame: 1201
+Position: 41 52
+Frame: 1202
+Position: 41 52
+Frame: 1203
+Position: 41 52
+Frame: 1204
+Position: 41 52
+Frame: 1205
+Position: 41 52
+Frame: 1206
+Position: 41 52
+Frame: 1207
+Position: 41 52
+Frame: 1208
+Position: 41 52
+Frame: 1209
+Position: 41 52
+Frame: 1210
+Position: 41 52
+Frame: 1211
+Position: 41 52
+Frame: 1212
+Position: 41 52
+Frame: 1213
+Position: 41 52
+Frame: 1214
+Position: 41 52
+Frame: 1215
+Position: 41 52
+Frame: 1216
+Position: 41 52
+Frame: 1217
+Position: 41 52
+Frame: 1218
+Position: 41 52
+Frame: 1219
+Position: 41 52
+Frame: 1220
+Position: 41 52
+Frame: 1221
+Position: 41 52
+Frame: 1222
+Position: 41 52
+Frame: 1223
+Position: 41 52
+Frame: 1224
+Position: 41 52
+Frame: 1225
+Position: 41 52
+Frame: 1226
+Position: 41 52
+Frame: 1227
+Position: 41 52
+Frame: 1228
+Position: 41 52
+Frame: 1229
+Position: 41 52
+Frame: 1230
+Position: 41 52
+Frame: 1231
+Position: 41 52
+Frame: 1232
+Position: 41 52
+Frame: 1233
+Position: 41 52
+Frame: 1234
+Position: 41 52
+Frame: 1235
+Position: 41 52
+Frame: 1236
+Position: 41 52
+Frame: 1237
+Position: 41 52
+Frame: 1238
+Position: 41 52
+Frame: 1239
+Position: 41 52
+Frame: 1240
+Position: 41 52
+Frame: 1241
+Position: 41 52
+Frame: 1242
+Position: 41 52
+Frame: 1243
+Position: 41 52
+Frame: 1244
+Position: 41 52
+Frame: 1245
+Position: 41 52
+Frame: 1246
+Position: 41 52
+Frame: 1247
+Position: 41 52
+Frame: 1248
+Position: 41 52
+Frame: 1249
+Position: 41 52
+Frame: 1250
+Position: 41 52
+Frame: 1251
+Position: 41 52
+Frame: 1252
+Position: 41 52
+Frame: 1253
+Position: 41 52
+Frame: 1254
+Position: 41 52
+Frame: 1255
+Position: 41 52
+Frame: 1256
+Position: 41 52
+Frame: 1257
+Position: 41 52
+Frame: 1258
+Position: 41 52
+Frame: 1259
+Position: 41 52
+Frame: 1260
+Position: 41 52
+Frame: 1261
+Position: 41 52
+Frame: 1262
+Position: 41 52
+Frame: 1263
+Position: 41 52
+Frame: 1264
+Position: 41 52
+Frame: 1265
+Position: 41 52
+Frame: 1266
+Position: 41 52
+Frame: 1267
+Position: 41 52
+Frame: 1268
+Position: 41 52
+Frame: 1269
+Position: 41 52
+Frame: 1270
+Position: 41 52
+Frame: 1271
+Position: 41 52
+Frame: 1272
+Position: 41 52
+Frame: 1273
+Position: 41 52
+Frame: 1274
+Position: 41 52
+Frame: 1275
+Position: 41 52
+Frame: 1276
+Position: 41 52
+Frame: 1277
+Position: 41 52
+Frame: 1278
+Position: 41 52
+Frame: 1279
+Position: 41 52
+Frame: 1280
+Position: 41 52
+Frame: 1281
+Position: 41 52
+Frame: 1282
+Position: 41 52
+Frame: 1283
+Position: 41 52
+Frame: 1284
+Position: 41 52
+Frame: 1285
+Position: 41 52
+Frame: 1286
+Position: 41 52
+Frame: 1287
+Position: 41 52
+Frame: 1288
+Position: 41 52
+Frame: 1289
+Position: 41 52
+Frame: 1290
+Position: 41 52
+Frame: 1291
+Position: 41 51
+Frame: 1292
+Position: 41 51
+Frame: 1293
+Position: 41 51
+Frame: 1294
+Position: 41 51
+Frame: 1295
+Position: 41 51
+Frame: 1296
+Position: 41 51
+Frame: 1297
+Position: 41 51
+Frame: 1298
+Position: 41 51
+Frame: 1299
+Position: 41 51
+Frame: 1300
+Position: 41 51
+Frame: 1301
+Position: 40 51
+Frame: 1302
+Position: 40 51
+Frame: 1303
+Position: 40 51
+Frame: 1304
+Position: 40 51
+Frame: 1305
+Position: 40 51
+Frame: 1306
+Position: 40 50
+Frame: 1307
+Position: 40 50
+Frame: 1308
+Position: 40 50
+Frame: 1309
+Position: 40 50
+Frame: 1310
+Position: 40 50
+Frame: 1311
+Position: 39 50
+Frame: 1312
+Position: 39 50
+Frame: 1313
+Position: 39 50
+Frame: 1314
+Position: 39 50
+Frame: 1315
+Position: 39 50
+Frame: 1316
+Position: 39 49
+Frame: 1317
+Position: 39 49
+Frame: 1318
+Position: 38 49
+Frame: 1319
+Position: 38 49
+Frame: 1320
+Position: 38 49
+Frame: 1321
+Position: 38 49
+Frame: 1322
+Position: 38 49
+Frame: 1323
+Position: 38 49
+Frame: 1324
+Position: 38 49
+Frame: 1325
+Position: 38 49
+Frame: 1326
+Position: 37 49
+Frame: 1327
+Position: 37 49
+Frame: 1328
+Position: 37 49
+Frame: 1329
+Position: 37 49
+Frame: 1330
+Position: 37 49
+Frame: 1331
+Position: 37 49
+Frame: 1332
+Position: 37 49
+Frame: 1333
+Position: 36 49
+Frame: 1334
+Position: 36 49
+Frame: 1335
+Position: 36 49
+Frame: 1336
+Position: 36 49
+Frame: 1337
+Position: 36 49
+Frame: 1338
+Position: 36 49
+Frame: 1339
+Position: 36 49
+Frame: 1340
+Position: 35 49
+Frame: 1341
+Position: 35 49
+Frame: 1342
+Position: 35 49
+Frame: 1343
+Position: 35 49
+Frame: 1344
+Position: 35 49
+Frame: 1345
+Position: 35 49
+Frame: 1346
+Position: 34 49
+Frame: 1347
+Position: 34 49
+Frame: 1348
+Position: 34 49
+Frame: 1349
+Position: 34 49
+Frame: 1350
+Position: 34 49
+Frame: 1351
+Position: 34 49
+Frame: 1352
+Position: 34 49
+Frame: 1353
+Position: 33 49
+Frame: 1354
+Position: 33 49
+Frame: 1355
+Position: 33 49
+Frame: 1356
+Position: 33 49
+Frame: 1357
+Position: 33 49
+Frame: 1358
+Position: 33 49
+Frame: 1359
+Position: 32 49
+Frame: 1360
+Position: 32 49
+Frame: 1361
+Position: 32 49
+Frame: 1362
+Position: 32 49
+Frame: 1363
+Position: 32 49
+Frame: 1364
+Position: 32 49
+Frame: 1365
+Position: 32 49
+Frame: 1366
+Position: 31 49
+Frame: 1367
+Position: 31 49
+Frame: 1368
+Position: 31 49
+Frame: 1369
+Position: 31 49
+Frame: 1370
+Position: 31 49
+Frame: 1371
+Position: 31 49
+Frame: 1372
+Position: 30 49
+Frame: 1373
+Position: 30 49
+Frame: 1374
+Position: 30 49
+Frame: 1375
+Position: 30 49
+Frame: 1376
+Position: 30 49
+Frame: 1377
+Position: 30 48
+Frame: 1378
+Position: 30 48
+Frame: 1379
+Position: 29 48
+Frame: 1380
+Position: 29 48
+Frame: 1381
+Position: 29 48
+Frame: 1382
+Position: 29 48
+Frame: 1383
+Position: 29 48
+Frame: 1384
+Position: 29 48
+Frame: 1385
+Position: 29 48
+Frame: 1386
+Position: 29 47
+Frame: 1387
+Position: 29 47
+Frame: 1388
+Position: 28 47
+Frame: 1389
+Position: 28 47
+Frame: 1390
+Position: 28 47
+Frame: 1391
+Position: 28 47
+Frame: 1392
+Position: 28 47
+Frame: 1393
+Position: 28 47
+Frame: 1394
+Position: 28 47
+Frame: 1395
+Position: 27 47
+Frame: 1396
+Position: 27 47
+Frame: 1397
+Position: 27 47
+Frame: 1398
+Position: 27 47
+Frame: 1399
+Position: 27 46
+Frame: 1400
+Position: 27 46
+Frame: 1401
+Position: 27 46
+Frame: 1402
+Position: 27 46
+Frame: 1403
+Position: 26 46
+Frame: 1404
+Position: 26 46
+Frame: 1405
+Position: 26 46
+Frame: 1406
+Position: 26 46
+Frame: 1407
+Position: 26 46
+Frame: 1408
+Position: 26 46
+Frame: 1409
+Position: 26 46
+Frame: 1410
+Position: 26 46
+Frame: 1411
+Position: 25 46
+Frame: 1412
+Position: 25 46
+Frame: 1413
+Position: 25 46
+Frame: 1414
+Position: 25 46
+Frame: 1415
+Position: 25 46
+Frame: 1416
+Position: 25 46
+Frame: 1417
+Position: 25 46
+Frame: 1418
+Position: 24 46
+Frame: 1419
+Position: 24 46
+Frame: 1420
+Position: 24 46
+Frame: 1421
+Position: 24 46
+Frame: 1422
+Position: 24 46
+Frame: 1423
+Position: 24 46
+Frame: 1424
+Position: 23 45
+Frame: 1425
+Position: 23 45
+Frame: 1426
+Position: 23 45
+Frame: 1427
+Position: 23 45
+Frame: 1428
+Position: 23 45
+Frame: 1429
+Position: 23 45
+Frame: 1430
+Position: 23 45
+Frame: 1431
+Position: 22 45
+Frame: 1432
+Position: 22 45
+Frame: 1433
+Position: 22 45
+Frame: 1434
+Position: 22 45
+Frame: 1435
+Position: 22 45
+Frame: 1436
+Position: 22 45
+Frame: 1437
+Position: 22 45
+Frame: 1438
+Position: 21 45
+Frame: 1439
+Position: 21 45
+Frame: 1440
+Position: 21 45
+Frame: 1441
+Position: 21 44
+Frame: 1442
+Position: 21 44
+Frame: 1443
+Position: 21 44
+Frame: 1444
+Position: 21 44
+Frame: 1445
+Position: 20 44
+Frame: 1446
+Position: 20 44
+Frame: 1447
+Position: 20 44
+Frame: 1448
+Position: 20 44
+Frame: 1449
+Position: 20 44
+Frame: 1450
+Position: 20 44
+Frame: 1451
+Position: 20 44
+Frame: 1452
+Position: 20 43
+Frame: 1453
+Position: 20 43
+Frame: 1454
+Position: 19 43
+Frame: 1455
+Position: 19 43
+Frame: 1456
+Position: 19 43
+Frame: 1457
+Position: 19 43
+Frame: 1458
+Position: 19 43
+Frame: 1459
+Position: 19 43
+Frame: 1460
+Position: 19 43
+Frame: 1461
+Position: 19 42
+Frame: 1462
+Position: 19 42
+Frame: 1463
+Position: 18 42
+Frame: 1464
+Position: 18 42
+Frame: 1465
+Position: 18 42
+Frame: 1466
+Position: 18 42
+Frame: 1467
+Position: 18 42
+Frame: 1468
+Position: 18 42
+Frame: 1469
+Position: 18 42
+Frame: 1470
+Position: 18 41
+Frame: 1471
+Position: 18 41
+Frame: 1472
+Position: 17 41
+Frame: 1473
+Position: 17 41
+Frame: 1474
+Position: 17 41
+Frame: 1475
+Position: 17 41
+Frame: 1476
+Position: 17 41
+Frame: 1477
+Position: 17 41
+Frame: 1478
+Position: 17 41
+Frame: 1479
+Position: 16 41
+Frame: 1480
+Position: 16 41
+Frame: 1481
+Position: 16 41
+Frame: 1482
+Position: 16 41
+Frame: 1483
+Position: 16 40
+Frame: 1484
+Position: 16 40
+Frame: 1485
+Position: 16 40
+Frame: 1486
+Position: 15 40
+Frame: 1487
+Position: 15 40
+Frame: 1488
+Position: 15 40
+Frame: 1489
+Position: 15 40
+Frame: 1490
+Position: 15 40
+Frame: 1491
+Position: 15 40
+Frame: 1492
+Position: 15 40
+Frame: 1493
+Position: 14 40
+Frame: 1494
+Position: 14 40
+Frame: 1495
+Position: 14 40
+Frame: 1496
+Position: 14 40
+Frame: 1497
+Position: 14 40
+Frame: 1498
+Position: 14 40
+Frame: 1499
+Position: 14 40
+Frame: 1500
+Position: 13 40
+Frame: 1501
+Position: 13 40
+Frame: 1502
+Position: 13 40
+Frame: 1503
+Position: 13 39
+Frame: 1504
+Position: 13 39
+Frame: 1505
+Position: 13 39
+Frame: 1506
+Position: 13 39
+Frame: 1507
+Position: 12 39
+Frame: 1508
+Position: 12 39
+Frame: 1509
+Position: 12 39
+Frame: 1510
+Position: 12 39
+Frame: 1511
+Position: 12 39
+Frame: 1512
+Position: 12 39
+Frame: 1513
+Position: 12 39
+Frame: 1514
+Position: 11 39
+Frame: 1515
+Position: 11 39
+Frame: 1516
+Position: 11 39
+Frame: 1517
+Position: 11 39
+Frame: 1518
+Position: 11 39
+Frame: 1519
+Position: 11 38
+Frame: 1520
+Position: 11 38
+Frame: 1521
+Position: 10 38
+Frame: 1522
+Position: 10 38
+Frame: 1523
+Position: 10 38
+Frame: 1524
+Position: 10 38
+Frame: 1525
+Position: 10 38
+Frame: 1526
+Position: 10 38
+Frame: 1527
+Position: 10 38
+Frame: 1528
+Position: 10 38
+Frame: 1529
+Position: 9 38
+Frame: 1530
+Position: 9 38
+Frame: 1531
+Position: 9 38
+Frame: 1532
+Position: 9 38
+Frame: 1533
+Position: 9 38
+Frame: 1534
+Position: 9 37
+Frame: 1535
+Position: 9 37
+Frame: 1536
+Position: 8 37
+Frame: 1537
+Position: 8 37
+Frame: 1538
+Position: 8 37
+Frame: 1539
+Position: 8 37
+Frame: 1540
+Position: 8 37
+Frame: 1541
+Position: 8 37
+Frame: 1542
+Position: 8 37
+Frame: 1543
+Position: 8 37
+Frame: 1544
+Position: 8 37
+Frame: 1545
+Position: 8 36
+Frame: 1546
+Position: 8 36
+Frame: 1547
+Position: 8 36
+Frame: 1548
+Position: 8 36
+Frame: 1549
+Position: 7 36
+Frame: 1550
+Position: 7 36
+Frame: 1551
+Position: 7 36
+Frame: 1552
+Position: 7 36
+Frame: 1553
+Position: 7 36
+Frame: 1554
+Position: 7 36
+Frame: 1555
+Position: 7 36
+Frame: 1556
+Position: 6 36
+Frame: 1557
+Position: 6 36
+Frame: 1558
+Position: 6 36
+Frame: 1559
+Position: 6 36
+Frame: 1560
+Position: 6 36
+Frame: 1561
+Position: 6 36
+Frame: 1562
+Position: 6 36
+Frame: 1563
+Position: 6 36
+Frame: 1564
+Position: 6 36
+Frame: 1565
+Position: 6 36
+Frame: 1566
+Position: 6 36
+Frame: 1567
+Position: 6 36
+Frame: 1568
+Position: 6 36
+Frame: 1569
+Position: 6 36
+Frame: 1570
+Position: 6 36
+Frame: 1571
+Position: 6 36
+Frame: 1572
+Position: 6 36
+Frame: 1573
+Position: 6 36
+Frame: 1574
+Position: 6 36
+Frame: 1575
+Position: 6 36
+Frame: 1576
+Position: 6 36
+Frame: 1577
+Position: 6 36
+Frame: 1578
+Position: 6 36
+Frame: 1579
+Position: 6 36
+Frame: 1580
+Position: 6 36
+Frame: 1581
+Position: 6 36
+Frame: 1582
+Position: 6 36
+Frame: 1583
+Position: 6 36
+Frame: 1584
+Position: 6 36
+Frame: 1585
+Position: 6 36
+Frame: 1586
+Position: 6 35
+Frame: 1587
+Position: 6 35
+Frame: 1588
+Position: 7 35
+Frame: 1589
+Position: 7 35
+Frame: 1590
+Position: 7 35
+Frame: 1591
+Position: 7 35
+Frame: 1592
+Position: 7 35
+Frame: 1593
+Position: 7 35
+Frame: 1594
+Position: 7 35
+Frame: 1595
+Position: 7 35
+Frame: 1596
+Position: 7 35
+Frame: 1597
+Position: 8 35
+Frame: 1598
+Position: 8 35
+Frame: 1599
+Position: 8 34
+Frame: 1600
+Position: 8 34
+Frame: 1601
+Position: 8 34
+Frame: 1602
+Position: 8 34
+Frame: 1603
+Position: 8 34
+Frame: 1604
+Position: 9 34
+Frame: 1605
+Position: 9 34
+Frame: 1606
+Position: 9 34
+Frame: 1607
+Position: 9 34
+Frame: 1608
+Position: 9 34
+Frame: 1609
+Position: 9 34
+Frame: 1610
+Position: 9 34
+Frame: 1611
+Position: 9 34
+Frame: 1612
+Position: 9 34
+Frame: 1613
+Position: 10 34
+Frame: 1614
+Position: 10 34
+Frame: 1615
+Position: 10 33
+Frame: 1616
+Position: 10 33
+Frame: 1617
+Position: 10 33
+Frame: 1618
+Position: 10 33
+Frame: 1619
+Position: 10 33
+Frame: 1620
+Position: 11 33
+Frame: 1621
+Position: 11 33
+Frame: 1622
+Position: 11 33
+Frame: 1623
+Position: 11 33
+Frame: 1624
+Position: 11 33
+Frame: 1625
+Position: 11 33
+Frame: 1626
+Position: 11 33
+Frame: 1627
+Position: 12 33
+Frame: 1628
+Position: 12 33
+Frame: 1629
+Position: 12 33
+Frame: 1630
+Position: 12 33
+Frame: 1631
+Position: 12 33
+Frame: 1632
+Position: 12 33
+Frame: 1633
+Position: 12 33
+Frame: 1634
+Position: 12 32
+Frame: 1635
+Position: 13 32
+Frame: 1636
+Position: 13 32
+Frame: 1637
+Position: 13 32
+Frame: 1638
+Position: 13 32
+Frame: 1639
+Position: 13 32
+Frame: 1640
+Position: 13 32
+Frame: 1641
+Position: 13 32
+Frame: 1642
+Position: 13 32
+Frame: 1643
+Position: 13 32
+Frame: 1644
+Position: 14 32
+Frame: 1645
+Position: 14 32
+Frame: 1646
+Position: 14 32
+Frame: 1647
+Position: 14 32
+Frame: 1648
+Position: 14 32
+Frame: 1649
+Position: 14 32
+Frame: 1650
+Position: 14 32
+Frame: 1651
+Position: 14 32
+Frame: 1652
+Position: 14 32
+Frame: 1653
+Position: 14 32
+Frame: 1654
+Position: 14 32
+Frame: 1655
+Position: 14 32
+Frame: 1656
+Position: 14 32
+Frame: 1657
+Position: 14 32
+Frame: 1658
+Position: 14 32
+Frame: 1659
+Position: 14 32
+Frame: 1660
+Position: 14 32
+Frame: 1661
+Position: 14 32
+Frame: 1662
+Position: 14 32
+Frame: 1663
+Position: 14 32
+Frame: 1664
+Position: 14 32
+Frame: 1665
+Position: 14 32
+Frame: 1666
+Position: 14 32
+Frame: 1667
+Position: 14 32
+Frame: 1668
+Position: 14 32
+Frame: 1669
+Position: 14 32
+Frame: 1670
+Position: 14 32
+Frame: 1671
+Position: 14 32
+Frame: 1672
+Position: 14 32
+Frame: 1673
+Position: 14 32
+Frame: 1674
+Position: 15 32
+Frame: 1675
+Position: 15 32
+Frame: 1676
+Position: 15 32
+Frame: 1677
+Position: 15 32
+Frame: 1678
+Position: 15 32
+Frame: 1679
+Position: 15 32
+Frame: 1680
+Position: 15 32
+Frame: 1681
+Position: 15 32
+Frame: 1682
+Position: 15 32
+Frame: 1683
+Position: 16 32
+Frame: 1684
+Position: 16 32
+Frame: 1685
+Position: 16 32
+Frame: 1686
+Position: 16 32
+Frame: 1687
+Position: 16 32
+Frame: 1688
+Position: 16 32
+Frame: 1689
+Position: 16 32
+Frame: 1690
+Position: 16 32
+Frame: 1691
+Position: 17 32
+Frame: 1692
+Position: 17 32
+Frame: 1693
+Position: 17 31
+Frame: 1694
+Position: 17 31
+Frame: 1695
+Position: 17 31
+Frame: 1696
+Position: 17 31
+Frame: 1697
+Position: 17 31
+Frame: 1698
+Position: 17 31
+Frame: 1699
+Position: 17 31
+Frame: 1700
+Position: 17 31
+Frame: 1701
+Position: 18 31
+Frame: 1702
+Position: 18 30
+Frame: 1703
+Position: 18 30
+Frame: 1704
+Position: 18 30
+Frame: 1705
+Position: 18 30
+Frame: 1706
+Position: 18 30
+Frame: 1707
+Position: 18 30
+Frame: 1708
+Position: 18 30
+Frame: 1709
+Position: 18 30
+Frame: 1710
+Position: 18 30
+Frame: 1711
+Position: 19 29
+Frame: 1712
+Position: 19 29
+Frame: 1713
+Position: 19 29
+Frame: 1714
+Position: 19 29
+Frame: 1715
+Position: 19 29
+Frame: 1716
+Position: 19 29
+Frame: 1717
+Position: 19 29
+Frame: 1718
+Position: 19 29
+Frame: 1719
+Position: 19 29
+Frame: 1720
+Position: 19 28
+Frame: 1721
+Position: 19 28
+Frame: 1722
+Position: 19 28
+Frame: 1723
+Position: 19 28
+Frame: 1724
+Position: 19 28
+Frame: 1725
+Position: 19 28
+Frame: 1726
+Position: 19 28
+Frame: 1727
+Position: 19 28
+Frame: 1728
+Position: 19 28
+Frame: 1729
+Position: 19 28
+Frame: 1730
+Position: 19 28
+Frame: 1731
+Position: 19 28
+Frame: 1732
+Position: 19 28
+Frame: 1733
+Position: 19 28
+Frame: 1734
+Position: 19 28
+Frame: 1735
+Position: 19 28
+Frame: 1736
+Position: 19 28
+Frame: 1737
+Position: 19 28
+Frame: 1738
+Position: 19 28
+Frame: 1739
+Position: 19 28
+Frame: 1740
+Position: 19 28
+Frame: 1741
+Position: 19 28
+Frame: 1742
+Position: 19 28
+Frame: 1743
+Position: 19 28
+Frame: 1744
+Position: 19 28
+Frame: 1745
+Position: 19 28
+Frame: 1746
+Position: 19 28
+Frame: 1747
+Position: 19 28
+Frame: 1748
+Position: 19 28
+Frame: 1749
+Position: 19 28
+Frame: 1750
+Position: 19 28
+Frame: 1751
+Position: 19 28
+Frame: 1752
+Position: 19 28
+Frame: 1753
+Position: 19 28
+Frame: 1754
+Position: 19 28
+Frame: 1755
+Position: 19 28
+Frame: 1756
+Position: 19 28
+Frame: 1757
+Position: 19 28
+Frame: 1758
+Position: 19 28
+Frame: 1759
+Position: 19 28
+Frame: 1760
+Position: 19 28
+Frame: 1761
+Position: 19 28
+Frame: 1762
+Position: 19 28
+Frame: 1763
+Position: 19 28
+Frame: 1764
+Position: 19 28
+Frame: 1765
+Position: 19 28
+Frame: 1766
+Position: 19 28
+Frame: 1767
+Position: 19 28
+Frame: 1768
+Position: 19 28
+Frame: 1769
+Position: 19 28
+Frame: 1770
+Position: 19 28
+Frame: 1771
+Position: 19 28
+Frame: 1772
+Position: 19 28
+Frame: 1773
+Position: 19 28
+Frame: 1774
+Position: 19 28
+Frame: 1775
+Position: 19 28
+Frame: 1776
+Position: 19 28
+Frame: 1777
+Position: 19 28
+Frame: 1778
+Position: 19 28
+Frame: 1779
+Position: 19 28
+Frame: 1780
+Position: 19 28
+Frame: 1781
+Position: 19 28
+Frame: 1782
+Position: 19 28
+Frame: 1783
+Position: 19 28
+Frame: 1784
+Position: 19 28
+Frame: 1785
+Position: 19 28
+Frame: 1786
+Position: 19 28
+Frame: 1787
+Position: 19 28
+Frame: 1788
+Position: 19 28
+Frame: 1789
+Position: 19 28
+Frame: 1790
+Position: 19 28
+Frame: 1791
+Position: 19 28
+Frame: 1792
+Position: 19 28
+Frame: 1793
+Position: 19 28
+Frame: 1794
+Position: 19 28
+Frame: 1795
+Position: 19 28
+Frame: 1796
+Position: 19 28
+Frame: 1797
+Position: 19 28
+Frame: 1798
+Position: 19 28
+Frame: 1799
+Position: 19 28
+Frame: 1800
+Position: 19 28
+Frame: 1801
+Position: 19 28
+Frame: 1802
+Position: 19 28
+Frame: 1803
+Position: 19 28
+Frame: 1804
+Position: 19 28
+Frame: 1805
+Position: 19 28
+Frame: 1806
+Position: 19 28
+Frame: 1807
+Position: 19 28
+Frame: 1808
+Position: 19 28
+Frame: 1809
+Position: 19 28
+Frame: 1810
+Position: 19 28
+Frame: 1811
+Position: 19 28
+Frame: 1812
+Position: 19 28
+Frame: 1813
+Position: 19 28
+Frame: 1814
+Position: 19 28
+Frame: 1815
+Position: 19 28
+Frame: 1816
+Position: 19 28
+Frame: 1817
+Position: 19 28
+Frame: 1818
+Position: 20 28
+Frame: 1819
+Position: 20 28
+Frame: 1820
+Position: 20 28
+Frame: 1821
+Position: 20 28
+Frame: 1822
+Position: 20 28
+Frame: 1823
+Position: 20 28
+Frame: 1824
+Position: 20 28
+Frame: 1825
+Position: 20 28
+Frame: 1826
+Position: 20 28
+Frame: 1827
+Position: 20 28
+Frame: 1828
+Position: 20 28
+Frame: 1829
+Position: 21 28
+Frame: 1830
+Position: 21 28
+Frame: 1831
+Position: 21 28
+Frame: 1832
+Position: 21 29
+Frame: 1833
+Position: 21 29
+Frame: 1834
+Position: 21 29
+Frame: 1835
+Position: 21 29
+Frame: 1836
+Position: 22 29
+Frame: 1837
+Position: 22 29
+Frame: 1838
+Position: 22 29
+Frame: 1839
+Position: 22 29
+Frame: 1840
+Position: 22 29
+Frame: 1841
+Position: 22 29
+Frame: 1842
+Position: 22 29
+Frame: 1843
+Position: 23 29
+Frame: 1844
+Position: 23 29
+Frame: 1845
+Position: 23 29
+Frame: 1846
+Position: 23 29
+Frame: 1847
+Position: 23 29
+Frame: 1848
+Position: 23 29
+Frame: 1849
+Position: 24 29
+Frame: 1850
+Position: 24 29
+Frame: 1851
+Position: 24 29
+Frame: 1852
+Position: 24 29
+Frame: 1853
+Position: 24 29
+Frame: 1854
+Position: 24 29
+Frame: 1855
+Position: 24 29
+Frame: 1856
+Position: 25 29
+Frame: 1857
+Position: 25 29
+Frame: 1858
+Position: 25 29
+Frame: 1859
+Position: 25 29
+Frame: 1860
+Position: 25 29
+Frame: 1861
+Position: 25 29
+Frame: 1862
+Position: 25 29
+Frame: 1863
+Position: 26 29
+Frame: 1864
+Position: 26 29
+Frame: 1865
+Position: 26 29
+Frame: 1866
+Position: 26 29
+Frame: 1867
+Position: 26 29
+Frame: 1868
+Position: 26 29
+Frame: 1869
+Position: 26 29
+Frame: 1870
+Position: 27 29
+Frame: 1871
+Position: 27 29
+Frame: 1872
+Position: 27 29
+Frame: 1873
+Position: 27 29
+Frame: 1874
+Position: 27 29
+Frame: 1875
+Position: 27 29
+Frame: 1876
+Position: 27 29
+Frame: 1877
+Position: 27 29
+Frame: 1878
+Position: 27 29
+Frame: 1879
+Position: 27 29
+Frame: 1880
+Position: 27 29
+Frame: 1881
+Position: 27 29
+Frame: 1882
+Position: 27 29
+Frame: 1883
+Position: 27 29
+Frame: 1884
+Position: 27 29
+Frame: 1885
+Position: 27 29
+Frame: 1886
+Position: 27 29
+Frame: 1887
+Position: 27 29
+Frame: 1888
+Position: 27 29
+Frame: 1889
+Position: 27 29
+Frame: 1890
+Position: 27 29
+Frame: 1891
+Position: 27 29
+Frame: 1892
+Position: 27 29
+Frame: 1893
+Position: 27 29
+Frame: 1894
+Position: 27 29
+Frame: 1895
+Position: 27 29
+Frame: 1896
+Position: 27 29
+Frame: 1897
+Position: 27 29
+Frame: 1898
+Position: 27 29
+Frame: 1899
+Position: 27 29
+Frame: 1900
+Position: 27 29
+Frame: 1901
+Position: 27 29
+Frame: 1902
+Position: 28 29
+Frame: 1903
+Position: 28 29
+Frame: 1904
+Position: 28 29
+Frame: 1905
+Position: 28 29
+Frame: 1906
+Position: 28 29
+Frame: 1907
+Position: 28 29
+Frame: 1908
+Position: 28 29
+Frame: 1909
+Position: 28 29
+Frame: 1910
+Position: 28 29
+Frame: 1911
+Position: 29 29
+Frame: 1912
+Position: 29 29
+Frame: 1913
+Position: 29 29
+Frame: 1914
+Position: 29 29
+Frame: 1915
+Position: 29 29
+Frame: 1916
+Position: 29 29
+Frame: 1917
+Position: 29 29
+Frame: 1918
+Position: 30 29
+Frame: 1919
+Position: 30 29
+Frame: 1920
+Position: 30 29
+Frame: 1921
+Position: 30 29
+Frame: 1922
+Position: 30 29
+Frame: 1923
+Position: 30 29
+Frame: 1924
+Position: 31 29
+Frame: 1925
+Position: 31 29
+Frame: 1926
+Position: 31 29
+Frame: 1927
+Position: 31 29
+Frame: 1928
+Position: 31 29
+Frame: 1929
+Position: 31 29
+Frame: 1930
+Position: 31 29
+Frame: 1931
+Position: 32 29
+Frame: 1932
+Position: 32 29
+Frame: 1933
+Position: 32 29
+Frame: 1934
+Position: 32 29
+Frame: 1935
+Position: 32 29
+Frame: 1936
+Position: 32 29
+Frame: 1937
+Position: 33 29
+Frame: 1938
+Position: 33 29
+Frame: 1939
+Position: 33 29
+Frame: 1940
+Position: 33 29
+Frame: 1941
+Position: 33 29
+Frame: 1942
+Position: 33 29
+Frame: 1943
+Position: 33 29
+Frame: 1944
+Position: 34 29
+Frame: 1945
+Position: 34 29
+Frame: 1946
+Position: 34 29
+Frame: 1947
+Position: 34 29
+Frame: 1948
+Position: 34 29
+Frame: 1949
+Position: 34 30
+Frame: 1950
+Position: 34 30
+Frame: 1951
+Position: 34 30
+Frame: 1952
+Position: 34 30
+Frame: 1953
+Position: 35 30
+Frame: 1954
+Position: 35 30
+Frame: 1955
+Position: 35 30
+Frame: 1956
+Position: 35 30
+Frame: 1957
+Position: 35 30
+Frame: 1958
+Position: 35 30
+Frame: 1959
+Position: 35 30
+Frame: 1960
+Position: 35 30
+Frame: 1961
+Position: 35 30
+Frame: 1962
+Position: 35 30
+Frame: 1963
+Position: 35 30
+Frame: 1964
+Position: 35 30
+Frame: 1965
+Position: 35 30
+Frame: 1966
+Position: 35 30
+Frame: 1967
+Position: 35 30
+Frame: 1968
+Position: 35 30
+Frame: 1969
+Position: 35 30
+Frame: 1970
+Position: 35 30
+Frame: 1971
+Position: 35 30
+Frame: 1972
+Position: 35 30
+Frame: 1973
+Position: 35 30
+Frame: 1974
+Position: 35 30
+Frame: 1975
+Position: 35 30
+Frame: 1976
+Position: 35 30
+Frame: 1977
+Position: 35 30
+Frame: 1978
+Position: 35 30
+Frame: 1979
+Position: 35 30
+Frame: 1980
+Position: 35 30
+Frame: 1981
+Position: 35 30
+Frame: 1982
+Position: 35 30
+Frame: 1983
+Position: 35 30
+Frame: 1984
+Position: 35 30
+Frame: 1985
+Position: 35 30
+Frame: 1986
+Position: 35 30
+Frame: 1987
+Position: 35 30
+Frame: 1988
+Position: 35 30
+Frame: 1989
+Position: 35 30
+Frame: 1990
+Position: 35 31
+Frame: 1991
+Position: 35 31
+Frame: 1992
+Position: 35 31
+Frame: 1993
+Position: 35 31
+Frame: 1994
+Position: 35 31
+Frame: 1995
+Position: 35 31
+Frame: 1996
+Position: 35 31
+Frame: 1997
+Position: 36 31
+Frame: 1998
+Position: 36 32
+Frame: 1999
+Position: 36 32
+Frame: 2000
+Position: 36 32
+Frame: 2001
+Position: 36 32
+Frame: 2002
+Position: 36 32
+Frame: 2003
+Position: 36 32
+Frame: 2004
+Position: 36 32
+Frame: 2005
+Position: 36 32
+Frame: 2006
+Position: 36 33
+Frame: 2007
+Position: 36 33
+Frame: 2008
+Position: 36 33
+Frame: 2009
+Position: 36 33
+Frame: 2010
+Position: 36 33
+Frame: 2011
+Position: 36 33
+Frame: 2012
+Position: 37 33
+Frame: 2013
+Position: 37 33
+Frame: 2014
+Position: 37 33
+Frame: 2015
+Position: 37 33
+Frame: 2016
+Position: 37 33
+Frame: 2017
+Position: 37 34
+Frame: 2018
+Position: 37 34
+Frame: 2019
+Position: 37 34
+Frame: 2020
+Position: 38 34
+Frame: 2021
+Position: 38 34
+Frame: 2022
+Position: 38 34
+Frame: 2023
+Position: 38 34
+Frame: 2024
+Position: 38 34
+Frame: 2025
+Position: 38 34
+Frame: 2026
+Position: 38 34
+Frame: 2027
+Position: 38 35
+Frame: 2028
+Position: 38 35
+Frame: 2029
+Position: 39 35
+Frame: 2030
+Position: 39 35
+Frame: 2031
+Position: 39 35
+Frame: 2032
+Position: 39 35
+Frame: 2033
+Position: 39 35
+Frame: 2034
+Position: 39 35
+Frame: 2035
+Position: 39 35
+Frame: 2036
+Position: 39 36
+Frame: 2037
+Position: 39 36
+Frame: 2038
+Position: 39 36
+Frame: 2039
+Position: 40 36
+Frame: 2040
+Position: 40 36
+Frame: 2041
+Position: 40 36
+Frame: 2042
+Position: 40 36
+Frame: 2043
+Position: 40 36
+Frame: 2044
+Position: 40 36
+Frame: 2045
+Position: 41 36
+Frame: 2046
+Position: 41 36
+Frame: 2047
+Position: 41 36
+Frame: 2048
+Position: 41 36
+Frame: 2049
+Position: 41 36
+Frame: 2050
+Position: 41 36
+Frame: 2051
+Position: 40 37
+Frame: 2052
+Position: 40 37
+Frame: 2053
+Position: 40 37
+Frame: 2054
+Position: 40 37
+Frame: 2055
+Position: 40 37
+Frame: 2056
+Position: 40 37
+Frame: 2057
+Position: 40 37
+Frame: 2058
+Position: 40 37
+Frame: 2059
+Position: 40 37
+Frame: 2060
+Position: 40 37
+Frame: 2061
+Position: 40 37
+Frame: 2062
+Position: 40 37
+Frame: 2063
+Position: 40 37
+Frame: 2064
+Position: 40 37
+Frame: 2065
+Position: 40 36
+Frame: 2066
+Position: 40 36
+Frame: 2067
+Position: 40 36
+Frame: 2068
+Position: 40 36
+Frame: 2069
+Position: 41 36
+Frame: 2070
+Position: 41 36
+Frame: 2071
+Position: 41 36
+Frame: 2072
+Position: 41 36
+Frame: 2073
+Position: 41 36
+Frame: 2074
+Position: 41 36
+Frame: 2075
+Position: 41 36
+Frame: 2076
+Position: 41 36
+Frame: 2077
+Position: 41 36
+Frame: 2078
+Position: 42 36
+Frame: 2079
+Position: 42 36
+Frame: 2080
+Position: 42 36
+Frame: 2081
+Position: 42 36
+Frame: 2082
+Position: 42 36
+Frame: 2083
+Position: 42 36
+Frame: 2084
+Position: 42 36
+Frame: 2085
+Position: 42 36
+Frame: 2086
+Position: 42 35
+Frame: 2087
+Position: 42 35
+Frame: 2088
+Position: 43 35
+Frame: 2089
+Position: 43 35
+Frame: 2090
+Position: 43 35
+Frame: 2091
+Position: 43 35
+Frame: 2092
+Position: 43 35
+Frame: 2093
+Position: 43 35
+Frame: 2094
+Position: 43 35
+Frame: 2095
+Position: 43 34
+Frame: 2096
+Position: 43 34
+Frame: 2097
+Position: 44 34
+Frame: 2098
+Position: 44 34
+Frame: 2099
+Position: 44 34
+Frame: 2100
+Position: 44 34
+Frame: 2101
+Position: 44 34
+Frame: 2102
+Position: 44 34
+Frame: 2103
+Position: 44 34
+Frame: 2104
+Position: 44 34
+Frame: 2105
+Position: 44 33
+Frame: 2106
+Position: 45 33
+Frame: 2107
+Position: 45 33
+Frame: 2108
+Position: 45 33
+Frame: 2109
+Position: 45 33
+Frame: 2110
+Position: 45 33
+Frame: 2111
+Position: 45 33
+Frame: 2112
+Position: 45 33
+Frame: 2113
+Position: 45 33
+Frame: 2114
+Position: 46 33
+Frame: 2115
+Position: 46 33
+Frame: 2116
+Position: 46 33
+Frame: 2117
+Position: 46 32
+Frame: 2118
+Position: 46 32
+Frame: 2119
+Position: 46 32
+Frame: 2120
+Position: 46 32
+Frame: 2121
+Position: 46 32
+Frame: 2122
+Position: 47 32
+Frame: 2123
+Position: 47 32
+Frame: 2124
+Position: 47 32
+Frame: 2125
+Position: 47 32
+Frame: 2126
+Position: 47 32
+Frame: 2127
+Position: 47 32
+Frame: 2128
+Position: 47 32
+Frame: 2129
+Position: 47 32
+Frame: 2130
+Position: 47 32
+Frame: 2131
+Position: 48 32
+Frame: 2132
+Position: 48 32
+Frame: 2133
+Position: 48 32
+Frame: 2134
+Position: 48 32
+Frame: 2135
+Position: 48 32
+Frame: 2136
+Position: 48 32
+Frame: 2137
+Position: 48 32
+Frame: 2138
+Position: 49 32
+Frame: 2139
+Position: 49 32
+Frame: 2140
+Position: 49 32
+Frame: 2141
+Position: 49 32
+Frame: 2142
+Position: 49 32
+Frame: 2143
+Position: 49 32
+Frame: 2144
+Position: 49 32
+Frame: 2145
+Position: 50 32
+Frame: 2146
+Position: 50 32
+Frame: 2147
+Position: 50 32
+Frame: 2148
+Position: 50 32
+Frame: 2149
+Position: 50 32
+Frame: 2150
+Position: 50 32
+Frame: 2151
+Position: 50 32
+Frame: 2152
+Position: 51 32
+Frame: 2153
+Position: 51 32
+Frame: 2154
+Position: 51 32
+Frame: 2155
+Position: 51 32
+Frame: 2156
+Position: 51 32
+Frame: 2157
+Position: 51 32
+Frame: 2158
+Position: 52 32
+Frame: 2159
+Position: 52 32
+Frame: 2160
+Position: 52 32
+Frame: 2161
+Position: 52 32
+Frame: 2162
+Position: 52 32
+Frame: 2163
+Position: 52 32
+Frame: 2164
+Position: 52 32
+Frame: 2165
+Position: 52 32
+Frame: 2166
+Position: 53 31
+Frame: 2167
+Position: 53 31
+Frame: 2168
+Position: 53 31
+Frame: 2169
+Position: 53 31
+Frame: 2170
+Position: 53 31
+Frame: 2171
+Position: 53 31
+Frame: 2172
+Position: 53 31
+Frame: 2173
+Position: 53 31
+Frame: 2174
+Position: 53 31
+Frame: 2175
+Position: 54 31
+Frame: 2176
+Position: 54 31
+Frame: 2177
+Position: 54 31
+Frame: 2178
+Position: 54 31
+Frame: 2179
+Position: 54 31
+Frame: 2180
+Position: 54 31
+Frame: 2181
+Position: 54 31
+Frame: 2182
+Position: 55 31
+Frame: 2183
+Position: 55 31
+Frame: 2184
+Position: 55 31
+Frame: 2185
+Position: 55 31
+Frame: 2186
+Position: 55 31
+Frame: 2187
+Position: 55 31
+Frame: 2188
+Position: 55 31
+Frame: 2189
+Position: 56 31
+Frame: 2190
+Position: 56 31
+Frame: 2191
+Position: 56 31
+Frame: 2192
+Position: 56 31
+Frame: 2193
+Position: 56 31
+Frame: 2194
+Position: 56 31
+Frame: 2195
+Position: 57 31
+Frame: 2196
+Position: 57 31
+Frame: 2197
+Position: 57 31
+Frame: 2198
+Position: 57 31
+Frame: 2199
+Position: 57 31
+Frame: 2200
+Position: 57 31
+Frame: 2201
+Position: 57 31
+Frame: 2202
+Position: 57 31
+Frame: 2203
+Position: 58 32
+Frame: 2204
+Position: 58 32
+Frame: 2205
+Position: 58 32
+Frame: 2206
+Position: 58 32
+Frame: 2207
+Position: 58 32
+Frame: 2208
+Position: 58 32
+Frame: 2209
+Position: 58 32
+Frame: 2210
+Position: 58 32
+Frame: 2211
+Position: 58 32
+Frame: 2212
+Position: 58 33
+Frame: 2213
+Position: 59 33
+Frame: 2214
+Position: 59 33
+Frame: 2215
+Position: 59 33
+Frame: 2216
+Position: 59 33
+Frame: 2217
+Position: 59 33
+Frame: 2218
+Position: 59 33
+Frame: 2219
+Position: 59 33
+Frame: 2220
+Position: 59 33
+Frame: 2221
+Position: 59 34
+Frame: 2222
+Position: 59 34
+Frame: 2223
+Position: 59 34
+Frame: 2224
+Position: 59 34
+Frame: 2225
+Position: 59 34
+Frame: 2226
+Position: 59 34
+Frame: 2227
+Position: 59 35
+Frame: 2228
+Position: 59 35
+Frame: 2229
+Position: 59 35
+Frame: 2230
+Position: 59 35
+Frame: 2231
+Position: 59 35
+Frame: 2232
+Position: 59 35
+Frame: 2233
+Position: 59 35
+Frame: 2234
+Position: 59 35
+Frame: 2235
+Position: 59 35
+Frame: 2236
+Position: 59 35
+Frame: 2237
+Position: 60 35
+Frame: 2238
+Position: 60 36
+Frame: 2239
+Position: 60 36
+Frame: 2240
+Position: 60 36
+Frame: 2241
+Position: 60 36
+Frame: 2242
+Position: 60 36
+Frame: 2243
+Position: 60 36
+Frame: 2244
+Position: 60 36
+Frame: 2245
+Position: 60 36
+Frame: 2246
+Position: 60 36
+Frame: 2247
+Position: 60 36
+Frame: 2248
+Position: 60 36
+Frame: 2249
+Position: 60 36
+Frame: 2250
+Position: 60 36
+Frame: 2251
+Position: 60 36
+Frame: 2252
+Position: 60 36
+Frame: 2253
+Position: 60 36
+Frame: 2254
+Position: 60 36
+Frame: 2255
+Position: 60 36
+Frame: 2256
+Position: 60 36
+Frame: 2257
+Position: 60 36
+Frame: 2258
+Position: 60 36
+Frame: 2259
+Position: 60 36
+Frame: 2260
+Position: 61 36
+Frame: 2261
+Position: 61 37
+Frame: 2262
+Position: 61 37
+Frame: 2263
+Position: 61 37
+Frame: 2264
+Position: 61 37
+Frame: 2265
+Position: 61 37
+Frame: 2266
+Position: 61 37
+Frame: 2267
+Position: 61 37
+Frame: 2268
+Position: 61 37
+Frame: 2269
+Position: 62 37
+Frame: 2270
+Position: 62 38
+Frame: 2271
+Position: 62 38
+Frame: 2272
+Position: 62 38
+Frame: 2273
+Position: 62 38
+Frame: 2274
+Position: 62 38
+Frame: 2275
+Position: 62 38
+Frame: 2276
+Position: 62 38
+Frame: 2277
+Position: 62 39
+Frame: 2278
+Position: 62 39
+Frame: 2279
+Position: 62 39
+Frame: 2280
+Position: 62 39
+Frame: 2281
+Position: 62 39
+Frame: 2282
+Position: 62 39
+Frame: 2283
+Position: 62 39
+Frame: 2284
+Position: 63 40
+Frame: 2285
+Position: 63 40
+Frame: 2286
+Position: 63 40
+Frame: 2287
+Position: 63 40
+Frame: 2288
+Position: 63 40
+Frame: 2289
+Position: 63 40
+Frame: 2290
+Position: 63 40
+Frame: 2291
+Position: 63 40
+Frame: 2292
+Position: 63 40
+Frame: 2293
+Position: 63 40
+Frame: 2294
+Position: 63 40
+Frame: 2295
+Position: 63 40
+Frame: 2296
+Position: 63 40
+Frame: 2297
+Position: 63 40
+Frame: 2298
+Position: 63 40
+Frame: 2299
+Position: 63 40
+Frame: 2300
+Position: 63 40
+Frame: 2301
+Position: 63 40
+Frame: 2302
+Position: 63 40
+Frame: 2303
+Position: 63 40
+Frame: 2304
+Position: 63 40
+Frame: 2305
+Position: 63 40
+Frame: 2306
+Position: 63 40
+Frame: 2307
+Position: 63 40
+Frame: 2308
+Position: 63 40
+Frame: 2309
+Position: 63 40
+Frame: 2310
+Position: 63 40
+Frame: 2311
+Position: 63 40
+Frame: 2312
+Position: 63 40
+Frame: 2313
+Position: 63 40
+Frame: 2314
+Position: 63 40
+Frame: 2315
+Position: 63 40
+Frame: 2316
+Position: 63 40
+Frame: 2317
+Position: 63 40
+Frame: 2318
+Position: 63 40
+Frame: 2319
+Position: 63 40
+Frame: 2320
+Position: 63 40
+Frame: 2321
+Position: 63 40
+Frame: 2322
+Position: 63 40
+Frame: 2323
+Position: 63 40
+Frame: 2324
+Position: 63 40
+Frame: 2325
+Position: 63 41
+Frame: 2326
+Position: 63 41
+Frame: 2327
+Position: 63 41
+Frame: 2328
+Position: 63 41
+Frame: 2329
+Position: 63 41
+Frame: 2330
+Position: 63 41
+Frame: 2331
+Position: 63 41
+Frame: 2332
+Position: 63 41
+Frame: 2333
+Position: 63 41
+Frame: 2334
+Position: 63 41
+Frame: 2335
+Position: 63 42
+Frame: 2336
+Position: 63 42
+Frame: 2337
+Position: 63 42
+Frame: 2338
+Position: 63 42
+Frame: 2339
+Position: 63 42
+Frame: 2340
+Position: 63 42
+Frame: 2341
+Position: 62 42
+Frame: 2342
+Position: 62 43
+Frame: 2343
+Position: 62 43
+Frame: 2344
+Position: 62 43
+Frame: 2345
+Position: 62 43
+Frame: 2346
+Position: 62 43
+Frame: 2347
+Position: 62 43
+Frame: 2348
+Position: 62 43
+Frame: 2349
+Position: 62 43
+Frame: 2350
+Position: 61 43
+Frame: 2351
+Position: 61 43
+Frame: 2352
+Position: 61 44
+Frame: 2353
+Position: 61 44
+Frame: 2354
+Position: 61 44
+Frame: 2355
+Position: 61 44
+Frame: 2356
+Position: 61 44
+Frame: 2357
+Position: 61 44
+Frame: 2358
+Position: 61 44
+Frame: 2359
+Position: 61 44
+Frame: 2360
+Position: 61 44
+Frame: 2361
+Position: 61 45
+Frame: 2362
+Position: 61 45
+Frame: 2363
+Position: 61 45
+Frame: 2364
+Position: 61 45
+Frame: 2365
+Position: 61 45
+Frame: 2366
+Position: 61 45
+Frame: 2367
+Position: 61 45
+Frame: 2368
+Position: 61 45
+Frame: 2369
+Position: 61 45
+Frame: 2370
+Position: 61 45
+Frame: 2371
+Position: 61 45
+Frame: 2372
+Position: 61 45
+Frame: 2373
+Position: 61 45
+Frame: 2374
+Position: 61 45
+Frame: 2375
+Position: 61 45
+Frame: 2376
+Position: 61 45
+Frame: 2377
+Position: 61 45
+Frame: 2378
+Position: 61 45
+Frame: 2379
+Position: 61 45
+Frame: 2380
+Position: 61 45
+Frame: 2381
+Position: 61 45
+Frame: 2382
+Position: 61 45
+Frame: 2383
+Position: 61 45
+Frame: 2384
+Position: 61 45
+Frame: 2385
+Position: 61 45
+Frame: 2386
+Position: 61 45
+Frame: 2387
+Position: 61 45
+Frame: 2388
+Position: 61 45
+Frame: 2389
+Position: 61 46
+Frame: 2390
+Position: 61 46
+Frame: 2391
+Position: 61 46
+Frame: 2392
+Position: 61 46
+Frame: 2393
+Position: 61 46
+Frame: 2394
+Position: 61 46
+Frame: 2395
+Position: 61 46
+Frame: 2396
+Position: 61 46
+Frame: 2397
+Position: 61 46
+Frame: 2398
+Position: 61 46
+Frame: 2399
+Position: 61 46
+Frame: 2400
+Position: 61 47
+Frame: 2401
+Position: 61 47
+Frame: 2402
+Position: 61 47
+Frame: 2403
+Position: 61 47
+Frame: 2404
+Position: 61 47
+Frame: 2405
+Position: 61 47
+Frame: 2406
+Position: 61 47
+Frame: 2407
+Position: 61 48
+Frame: 2408
+Position: 61 48
+Frame: 2409
+Position: 61 48
+Frame: 2410
+Position: 61 48
+Frame: 2411
+Position: 61 48
+Frame: 2412
+Position: 62 48
+Frame: 2413
+Position: 62 48
+Frame: 2414
+Position: 62 48
+Frame: 2415
+Position: 62 48
+Frame: 2416
+Position: 62 48
+Frame: 2417
+Position: 62 48
+Frame: 2418
+Position: 62 48
+Frame: 2419
+Position: 62 48
+Frame: 2420
+Position: 63 48
+Frame: 2421
+Position: 63 48
+Frame: 2422
+Position: 63 48
+Frame: 2423
+Position: 63 48
+Frame: 2424
+Position: 63 48
+Frame: 2425
+Position: 63 49
+Frame: 2426
+Position: 63 49
+Frame: 2427
+Position: 63 49
+Frame: 2428
+Position: 63 49
+Frame: 2429
+Position: 63 49
+Frame: 2430
+Position: 63 49
+Frame: 2431
+Position: 63 50
+Frame: 2432
+Position: 63 50
+Frame: 2433
+Position: 63 50
+Frame: 2434
+Position: 63 50
+Frame: 2435
+Position: 63 50
+Frame: 2436
+Position: 63 50
+Frame: 2437
+Position: 63 50
+Frame: 2438
+Position: 63 50
+Frame: 2439
+Position: 63 51
+Frame: 2440
+Position: 63 51
+Frame: 2441
+Position: 63 51
+Frame: 2442
+Position: 63 51
+Frame: 2443
+Position: 63 51
+Frame: 2444
+Position: 63 51
+Frame: 2445
+Position: 63 51
+Frame: 2446
+Position: 63 51
+Frame: 2447
+Position: 63 51
+Frame: 2448
+Position: 63 51
+Frame: 2449
+Position: 63 51
+Frame: 2450
+Position: 63 51
+Frame: 2451
+Position: 63 51
+Frame: 2452
+Position: 63 51
+Frame: 2453
+Position: 63 51
+Frame: 2454
+Position: 63 51
+Frame: 2455
+Position: 63 51
+Frame: 2456
+Position: 63 51
+Frame: 2457
+Position: 63 51
+Frame: 2458
+Position: 63 51
+Frame: 2459
+Position: 63 51
+Frame: 2460
+Position: 63 51
+Frame: 2461
+Position: 63 51
+Frame: 2462
+Position: 63 51
+Frame: 2463
+Position: 63 51
+Frame: 2464
+Position: 63 51
+Frame: 2465
+Position: 63 51
+Frame: 2466
+Position: 63 51
+Frame: 2467
+Position: 63 51
+Frame: 2468
+Position: 63 51
+Frame: 2469
+Position: 63 51
+Frame: 2470
+Position: 63 51
+Frame: 2471
+Position: 63 51
+Frame: 2472
+Position: 63 51
+Frame: 2473
+Position: 63 51
+Frame: 2474
+Position: 63 51
+Frame: 2475
+Position: 63 51
+Frame: 2476
+Position: 63 51
+Frame: 2477
+Position: 63 51
+Frame: 2478
+Position: 63 51
+Frame: 2479
+Position: 63 51
+Frame: 2480
+Position: 63 51
+Frame: 2481
+Position: 63 51
+Frame: 2482
+Position: 63 51
+Frame: 2483
+Position: 63 51
+Frame: 2484
+Position: 63 51
+Frame: 2485
+Position: 63 51
+Frame: 2486
+Position: 63 51
+Frame: 2487
+Position: 63 51
+Frame: 2488
+Position: 63 51
+Frame: 2489
+Position: 63 51
+Frame: 2490
+Position: 63 51
+Frame: 2491
+Position: 63 51
+Frame: 2492
+Position: 63 51
+Frame: 2493
+Position: 63 51
+Frame: 2494
+Position: 63 51
+Frame: 2495
+Position: 63 51
+Frame: 2496
+Position: 63 51
+Frame: 2497
+Position: 62 51
+Frame: 2498
+Position: 62 51
+Frame: 2499
+Position: 62 51
+Frame: 2500
+Position: 62 51
+Frame: 2501
+Position: 62 52
+Frame: 2502
+Position: 62 52
+Frame: 2503
+Position: 62 52
+Frame: 2504
+Position: 62 52
+Frame: 2505
+Position: 62 52
+Frame: 2506
+Position: 62 52
+Frame: 2507
+Position: 62 52
+Frame: 2508
+Position: 62 52
+Frame: 2509
+Position: 62 52
+Frame: 2510
+Position: 61 52
+Frame: 2511
+Position: 61 52
+Frame: 2512
+Position: 61 53
+Frame: 2513
+Position: 61 53
+Frame: 2514
+Position: 61 53
+Frame: 2515
+Position: 61 53
+Frame: 2516
+Position: 61 53
+Frame: 2517
+Position: 61 53
+Frame: 2518
+Position: 61 53
+Frame: 2519
+Position: 61 53
+Frame: 2520
+Position: 60 53
+Frame: 2521
+Position: 60 53
+Frame: 2522
+Position: 60 54
+Frame: 2523
+Position: 60 54
+Frame: 2524
+Position: 60 54
+Frame: 2525
+Position: 60 54
+Frame: 2526
+Position: 60 54
+Frame: 2527
+Position: 60 54
+Frame: 2528
+Position: 60 54
+Frame: 2529
+Position: 59 54
+Frame: 2530
+Position: 59 54
+Frame: 2531
+Position: 59 55
+Frame: 2532
+Position: 59 55
+Frame: 2533
+Position: 59 55
+Frame: 2534
+Position: 59 55
+Frame: 2535
+Position: 59 55
+Frame: 2536
+Position: 59 55
+Frame: 2537
+Position: 59 55
+Frame: 2538
+Position: 59 55
+Frame: 2539
+Position: 58 55
+Frame: 2540
+Position: 58 55
+Frame: 2541
+Position: 58 55
+Frame: 2542
+Position: 58 55
+Frame: 2543
+Position: 58 56
+Frame: 2544
+Position: 58 56
+Frame: 2545
+Position: 58 56
+Frame: 2546
+Position: 58 56
+Frame: 2547
+Position: 58 56
+Frame: 2548
+Position: 58 56
+Frame: 2549
+Position: 58 56
+Frame: 2550
+Position: 58 56
+Frame: 2551
+Position: 58 56
+Frame: 2552
+Position: 58 56
+Frame: 2553
+Position: 58 56
+Frame: 2554
+Position: 58 56
+Frame: 2555
+Position: 58 56
+Frame: 2556
+Position: 58 56
+Frame: 2557
+Position: 58 56
+Frame: 2558
+Position: 58 56
+Frame: 2559
+Position: 58 56
+Frame: 2560
+Position: 58 56
+Frame: 2561
+Position: 58 56
+Frame: 2562
+Position: 58 56
+Frame: 2563
+Position: 58 56
+Frame: 2564
+Position: 58 56
+Frame: 2565
+Position: 58 56
+Frame: 2566
+Position: 58 56
+Frame: 2567
+Position: 58 56
+Frame: 2568
+Position: 58 56
+Frame: 2569
+Position: 58 56
+Frame: 2570
+Position: 58 56
+Frame: 2571
+Position: 58 56
+Frame: 2572
+Position: 58 56
+Frame: 2573
+Position: 58 56
+Frame: 2574
+Position: 58 56
+Frame: 2575
+Position: 58 56
+Frame: 2576
+Position: 58 56
+Frame: 2577
+Position: 58 56
+Frame: 2578
+Position: 57 56
+Frame: 2579
+Position: 57 56
+Frame: 2580
+Position: 57 56
+Frame: 2581
+Position: 57 56
+Frame: 2582
+Position: 57 56
+Frame: 2583
+Position: 57 56
+Frame: 2584
+Position: 57 56
+Frame: 2585
+Position: 57 56
+Frame: 2586
+Position: 57 56
+Frame: 2587
+Position: 57 57
+Frame: 2588
+Position: 57 57
+Frame: 2589
+Position: 57 57
+Frame: 2590
+Position: 57 57
+Frame: 2591
+Position: 56 57
+Frame: 2592
+Position: 56 57
+Frame: 2593
+Position: 56 57
+Frame: 2594
+Position: 56 57
+Frame: 2595
+Position: 56 57
+Frame: 2596
+Position: 56 57
+Frame: 2597
+Position: 56 58
+Frame: 2598
+Position: 56 58
+Frame: 2599
+Position: 56 58
+Frame: 2600
+Position: 56 58
+Frame: 2601
+Position: 55 58
+Frame: 2602
+Position: 55 58
+Frame: 2603
+Position: 55 58
+Frame: 2604
+Position: 55 58
+Frame: 2605
+Position: 55 58
+Frame: 2606
+Position: 55 58
+Frame: 2607
+Position: 54 58
+Frame: 2608
+Position: 54 58
+Frame: 2609
+Position: 54 58
+Frame: 2610
+Position: 54 58
+Frame: 2611
+Position: 54 58
+Frame: 2612
+Position: 54 58
+Frame: 2613
+Position: 54 58
+Frame: 2614
+Position: 53 58
+Frame: 2615
+Position: 53 58
+Frame: 2616
+Position: 53 58
+Frame: 2617
+Position: 53 58
+Frame: 2618
+Position: 53 58
+Frame: 2619
+Position: 53 58
+Frame: 2620
+Position: 53 58
+Frame: 2621
+Position: 52 58
+Frame: 2622
+Position: 52 58
+Frame: 2623
+Position: 52 58
+Frame: 2624
+Position: 52 58
+Frame: 2625
+Position: 52 59
+Frame: 2626
+Position: 52 59
+Frame: 2627
+Position: 52 59
+Frame: 2628
+Position: 51 59
+Frame: 2629
+Position: 51 59
+Frame: 2630
+Position: 51 59
+Frame: 2631
+Position: 51 59
+Frame: 2632
+Position: 51 59
+Frame: 2633
+Position: 51 59
+Frame: 2634
+Position: 51 59
+Frame: 2635
+Position: 51 59
+Frame: 2636
+Position: 51 58
+Frame: 2637
+Position: 51 58
+Frame: 2638
+Position: 51 58
+Frame: 2639
+Position: 51 58
+Frame: 2640
+Position: 51 58
+Frame: 2641
+Position: 51 58
+Frame: 2642
+Position: 51 58
+Frame: 2643
+Position: 51 58
+Frame: 2644
+Position: 51 58
+Frame: 2645
+Position: 51 58
+Frame: 2646
+Position: 51 58
+Frame: 2647
+Position: 51 58
+Frame: 2648
+Position: 51 58
+Frame: 2649
+Position: 51 58
+Frame: 2650
+Position: 51 58
+Frame: 2651
+Position: 51 58
+Frame: 2652
+Position: 51 58
+Frame: 2653
+Position: 51 58
+Frame: 2654
+Position: 51 58
+Frame: 2655
+Position: 51 58
+Frame: 2656
+Position: 51 58
+Frame: 2657
+Position: 51 58
+Frame: 2658
+Position: 51 58
+Frame: 2659
+Position: 51 58
+Frame: 2660
+Position: 51 58
+Frame: 2661
+Position: 51 58
+Frame: 2662
+Position: 51 58
+Frame: 2663
+Position: 51 58
+Frame: 2664
+Position: 51 58
+Frame: 2665
+Position: 51 58
+Frame: 2666
+Position: 51 58
+Frame: 2667
+Position: 51 58
+Frame: 2668
+Position: 51 58
+Frame: 2669
+Position: 51 58
+Frame: 2670
+Position: 51 58
+Frame: 2671
+Position: 51 58
+Frame: 2672
+Position: 51 58
+Frame: 2673
+Position: 51 58
+Frame: 2674
+Position: 51 58
+Frame: 2675
+Position: 51 58
+Frame: 2676
+Position: 51 58
+Frame: 2677
+Position: 51 58
+Frame: 2678
+Position: 51 58
+Frame: 2679
+Position: 51 58
+Frame: 2680
+Position: 51 58
+Frame: 2681
+Position: 51 58
+Frame: 2682
+Position: 51 58
+Frame: 2683
+Position: 51 58
+Frame: 2684
+Position: 51 58
+Frame: 2685
+Position: 51 58
+Frame: 2686
+Position: 51 58
+Frame: 2687
+Position: 51 58
+Frame: 2688
+Position: 51 58
+Frame: 2689
+Position: 51 58
+Frame: 2690
+Position: 51 58
+Frame: 2691
+Position: 51 58
+Frame: 2692
+Position: 51 58
+Frame: 2693
+Position: 51 58
+Frame: 2694
+Position: 51 58
+Frame: 2695
+Position: 51 58
+Frame: 2696
+Position: 50 58
+Frame: 2697
+Position: 50 58
+Frame: 2698
+Position: 50 58
+Frame: 2699
+Position: 50 59
+Frame: 2700
+Position: 50 59
+Frame: 2701
+Position: 50 59
+Frame: 2702
+Position: 50 59
+Frame: 2703
+Position: 50 59
+Frame: 2704
+Position: 50 59
+Frame: 2705
+Position: 50 59
+Frame: 2706
+Position: 50 59
+Frame: 2707
+Position: 50 59
+Frame: 2708
+Position: 50 59
+Frame: 2709
+Position: 50 59
+Frame: 2710
+Position: 50 59
+Frame: 2711
+Position: 50 59
+Frame: 2712
+Position: 49 59
+Frame: 2713
+Position: 49 59
+Frame: 2714
+Position: 49 59
+Frame: 2715
+Position: 49 59
+Frame: 2716
+Position: 49 60
+Frame: 2717
+Position: 49 60
+Frame: 2718
+Position: 49 60
+Frame: 2719
+Position: 49 60
+Frame: 2720
+Position: 49 60
+Frame: 2721
+Position: 49 60
+Frame: 2722
+Position: 49 60
+Frame: 2723
+Position: 50 60
+Frame: 2724
+Position: 50 60
+Frame: 2725
+Position: 50 60
+Frame: 2726
+Position: 50 59
+Frame: 2727
+Position: 50 59
+Frame: 2728
+Position: 50 59
+Frame: 2729
+Position: 50 59
+Frame: 2730
+Position: 50 59
+Frame: 2731
+Position: 50 59
+Frame: 2732
+Position: 50 59
+Frame: 2733
+Position: 50 59
+Frame: 2734
+Position: 51 59
+Frame: 2735
+Position: 51 58
+Frame: 2736
+Position: 51 58
+Frame: 2737
+Position: 51 58
+Frame: 2738
+Position: 51 58
+Frame: 2739
+Position: 51 58
+Frame: 2740
+Position: 51 58
+Frame: 2741
+Position: 51 58
+Frame: 2742
+Position: 51 58
+Frame: 2743
+Position: 51 58
+Frame: 2744
+Position: 51 58
+Frame: 2745
+Position: 51 58
+Frame: 2746
+Position: 51 58
+Frame: 2747
+Position: 51 58
+Frame: 2748
+Position: 51 58
+Frame: 2749
+Position: 51 58
+Frame: 2750
+Position: 51 58
+Frame: 2751
+Position: 51 58
+Frame: 2752
+Position: 51 58
+Frame: 2753
+Position: 51 58
+Frame: 2754
+Position: 51 58
+Frame: 2755
+Position: 52 58
+Frame: 2756
+Position: 52 58
+Frame: 2757
+Position: 52 58
+Frame: 2758
+Position: 52 58
+Frame: 2759
+Position: 52 58
+Frame: 2760
+Position: 52 58
+Frame: 2761
+Position: 52 58
+Frame: 2762
+Position: 52 57
+Frame: 2763
+Position: 52 57
+Frame: 2764
+Position: 52 57
+Frame: 2765
+Position: 52 57
+Frame: 2766
+Position: 52 57
+Frame: 2767
+Position: 52 57
+Frame: 2768
+Position: 52 57
+Frame: 2769
+Position: 52 56
+Frame: 2770
+Position: 52 56
+Frame: 2771
+Position: 52 56
+Frame: 2772
+Position: 52 56
+Frame: 2773
+Position: 52 56
+Frame: 2774
+Position: 52 56
+Frame: 2775
+Position: 52 55
+Frame: 2776
+Position: 52 55
+Frame: 2777
+Position: 52 55
+Frame: 2778
+Position: 52 55
+Frame: 2779
+Position: 52 55
+Frame: 2780
+Position: 52 55
+Frame: 2781
+Position: 52 55
+Frame: 2782
+Position: 52 54
+Frame: 2783
+Position: 52 54
+Frame: 2784
+Position: 52 54
+Frame: 2785
+Position: 52 54
+Frame: 2786
+Position: 52 54
+Frame: 2787
+Position: 52 54
+Frame: 2788
+Position: 52 53
+Frame: 2789
+Position: 52 53
+Frame: 2790
+Position: 52 53
+Frame: 2791
+Position: 53 53
+Frame: 2792
+Position: 53 53
+Frame: 2793
+Position: 53 53
+Frame: 2794
+Position: 53 53
+Frame: 2795
+Position: 53 53
+Frame: 2796
+Position: 53 53
+Frame: 2797
+Position: 53 52
+Frame: 2798
+Position: 53 52
+Frame: 2799
+Position: 53 52
+Frame: 2800
+Position: 54 52
+Frame: 2801
+Position: 54 52
+Frame: 2802
+Position: 54 52
+Frame: 2803
+Position: 54 52
+Frame: 2804
+Position: 54 52
+Frame: 2805
+Position: 54 52
+Frame: 2806
+Position: 54 51
+Frame: 2807
+Position: 54 51
+Frame: 2808
+Position: 54 51
+Frame: 2809
+Position: 54 51
+Frame: 2810
+Position: 54 51
+Frame: 2811
+Position: 54 51
+Frame: 2812
+Position: 54 51
+Frame: 2813
+Position: 54 50
+Frame: 2814
+Position: 54 50
+Frame: 2815
+Position: 54 50
+Frame: 2816
+Position: 54 50
+Frame: 2817
+Position: 54 50
+Frame: 2818
+Position: 54 50
+Frame: 2819
+Position: 54 49
+Frame: 2820
+Position: 54 49
+Frame: 2821
+Position: 54 49
+Frame: 2822
+Position: 54 49
+Frame: 2823
+Position: 54 49
+Frame: 2824
+Position: 54 49
+Frame: 2825
+Position: 54 49
+Frame: 2826
+Position: 54 48
+Frame: 2827
+Position: 54 48
+Frame: 2828
+Position: 54 48
+Frame: 2829
+Position: 54 48
+Frame: 2830
+Position: 54 48
+Frame: 2831
+Position: 54 48
+Frame: 2832
+Position: 54 47
+Frame: 2833
+Position: 54 47
+Frame: 2834
+Position: 54 47
+Frame: 2835
+Position: 55 47
+Frame: 2836
+Position: 55 47
+Frame: 2837
+Position: 55 47
+Frame: 2838
+Position: 55 47
+Frame: 2839
+Position: 55 47
+Frame: 2840
+Position: 55 47
+Frame: 2841
+Position: 55 46
+Frame: 2842
+Position: 55 46
+Frame: 2843
+Position: 55 46
+Frame: 2844
+Position: 56 46
+Frame: 2845
+Position: 56 46
+Frame: 2846
+Position: 56 46
+Frame: 2847
+Position: 56 46
+Frame: 2848
+Position: 56 46
+Frame: 2849
+Position: 56 46
+Frame: 2850
+Position: 56 46
+Frame: 2851
+Position: 56 45
+Frame: 2852
+Position: 56 45
+Frame: 2853
+Position: 57 45
+Frame: 2854
+Position: 57 45
+Frame: 2855
+Position: 57 45
+Frame: 2856
+Position: 57 45
+Frame: 2857
+Position: 57 45
+Frame: 2858
+Position: 57 45
+Frame: 2859
+Position: 57 45
+Frame: 2860
+Position: 57 44
+Frame: 2861
+Position: 57 44
+Frame: 2862
+Position: 58 44
+Frame: 2863
+Position: 58 44
+Frame: 2864
+Position: 58 44
+Frame: 2865
+Position: 58 44
+Frame: 2866
+Position: 58 44
+Frame: 2867
+Position: 58 44
+Frame: 2868
+Position: 58 44
+Frame: 2869
+Position: 58 43
+Frame: 2870
+Position: 58 43
+Frame: 2871
+Position: 59 43
+Frame: 2872
+Position: 59 43
+Frame: 2873
+Position: 59 43
+Frame: 2874
+Position: 59 43
+Frame: 2875
+Position: 59 43
+Frame: 2876
+Position: 59 43
+Frame: 2877
+Position: 59 43
+Frame: 2878
+Position: 59 42
+Frame: 2879
+Position: 59 42
+Frame: 2880
+Position: 60 42
+Frame: 2881
+Position: 60 42
+Frame: 2882
+Position: 60 42
+Frame: 2883
+Position: 60 42
+Frame: 2884
+Position: 60 42
+Frame: 2885
+Position: 60 42
+Frame: 2886
+Position: 60 41
+Frame: 2887
+Position: 60 41
+Frame: 2888
+Position: 60 41
+Frame: 2889
+Position: 60 41
+Frame: 2890
+Position: 60 41
+Frame: 2891
+Position: 60 41
+Frame: 2892
+Position: 60 40
+Frame: 2893
+Position: 60 40
+Frame: 2894
+Position: 60 40
+Frame: 2895
+Position: 60 40
+Frame: 2896
+Position: 60 40
+Frame: 2897
+Position: 60 40
+Frame: 2898
+Position: 60 40
+Frame: 2899
+Position: 60 39
+Frame: 2900
+Position: 60 39
+Frame: 2901
+Position: 60 39
+Frame: 2902
+Position: 60 39
+Frame: 2903
+Position: 60 39
+Frame: 2904
+Position: 60 39
+Frame: 2905
+Position: 60 38
+Frame: 2906
+Position: 60 38
+Frame: 2907
+Position: 60 38
+Frame: 2908
+Position: 60 38
+Frame: 2909
+Position: 60 38
+Frame: 2910
+Position: 60 38
+Frame: 2911
+Position: 60 38
+Frame: 2912
+Position: 60 37
+Frame: 2913
+Position: 60 37
+Frame: 2914
+Position: 60 37
+Frame: 2915
+Position: 60 37
+Frame: 2916
+Position: 60 37
+Frame: 2917
+Position: 60 37
+Frame: 2918
+Position: 60 36
+Frame: 2919
+Position: 60 36
+Frame: 2920
+Position: 60 36
+Frame: 2921
+Position: 60 36
+Frame: 2922
+Position: 60 36
+Frame: 2923
+Position: 60 36
+Frame: 2924
+Position: 60 36
+Frame: 2925
+Position: 60 36
+Frame: 2926
+Position: 60 36
+Frame: 2927
+Position: 60 35
+Frame: 2928
+Position: 61 35
+Frame: 2929
+Position: 61 35
+Frame: 2930
+Position: 61 35
+Frame: 2931
+Position: 61 35

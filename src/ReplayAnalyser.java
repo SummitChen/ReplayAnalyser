@@ -62,7 +62,7 @@ public class ReplayAnalyser {
 
         DisplayPanel panel = new DisplayPanel(ra);
 
-        SwingUtilities.invokeLater(new DrawGUI(panel));
+        //SwingUtilities.invokeLater(new DrawGUI(panel));
 
         panel.updatePositions();
     }
