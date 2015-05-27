@@ -1,6 +1,3 @@
-/**
- * Created by megan on 20/05/2015.
- */
 public class Position {
     int x, y;
 

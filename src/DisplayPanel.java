@@ -6,9 +6,6 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 
-/**
- * Created by megan on 20/05/2015.
- */
 public class DisplayPanel extends JPanel {
     ReplayAnalyser ra;
 
@@ -28,7 +25,7 @@ public class DisplayPanel extends JPanel {
     // assumes they are both the same (not always true?).  For example for the
     // exploration map of 64x64 a scale factor of 32 will divide the map into
     // a 2x2 square, a factor of 16 will be a 4x4 square and so on.
-    int scale = 1;
+    int scale = 8;
 
     int currentIndex = 0;
 
@@ -51,12 +48,16 @@ public class DisplayPanel extends JPanel {
 
         g.drawRect(mapLeft, mapTop, ra.mapWidth * mult, ra.mapHeight * mult);
 
-        for (int i = 0; i < currentIndex; i++) {
+        for (int i = 0; i < currentIndex - 1; i++) {
             Position p = calculatePoint(ra.positions.get(i));
             g.setColor(new Color(0x0000ff));
             g.fillRect(mapLeft + (p.x * scale * mult), mapTop + (p.y * scale * mult),
                     scale * mult, scale * mult);
         }
+        Position p = calculatePoint(ra.positions.get(currentIndex));
+        g.setColor(new Color(0xff00ff));
+        g.fillRect(mapLeft + (p.x * scale * mult), mapTop + (p.y * scale * mult),
+                scale * mult, scale * mult);
     }
 
     public void updatePositions(String file) {
@@ -74,7 +75,7 @@ public class DisplayPanel extends JPanel {
             e.printStackTrace();
         }
 
-        // Write out where the unit has been in number form
+        // Write out where the unit has been in number form and direction.
         currentIndex = ra.positions.size() - 1;
         int[][] visited = new int[ra.mapWidth / scale][ra.mapHeight / scale];
         for (int i = 0; i < ra.mapWidth / scale; i++) {
@@ -82,9 +83,44 @@ public class DisplayPanel extends JPanel {
                 visited[i][j] = 0;
             }
         }
+
+        Position last = null;
+        StringBuilder move = new StringBuilder();
+
         for (int i = 0; i < currentIndex; i++) {
             Position p = calculatePoint(ra.positions.get(i));
             visited[p.x][p.y] = 1;
+
+            if (last == null) {
+                last = p;
+                continue;
+            }
+            if (last.x == p.x && last.y == p.y) {
+                continue;
+            }
+            System.out.println("last " + last.toString() + ", p " + p.toString());
+            if (last.x == p.x) {
+                if (last.y < p.y) {
+                    move.append("D ");
+                } else {
+                    move.append("U ");
+                }
+            } else if (last.y == p.y) {
+                if (last.x < p.x) {
+                    move.append("R ");
+                } else {
+                    move.append("L ");
+                }
+            } else if (last.x < p.x && last.y < p.y) {
+                move.append("DR ");
+            } else if (last.x < p.x && last.y > p.y) {
+                move.append("UR ");
+            } else if (last.x > p.x && last.y < p.y) {
+                move.append("DL ");
+            } else if (last.x > p.x && last.y > p.y) {
+                move.append("UL ");
+            }
+            last = p;
         }
 
         StringBuilder sb = new StringBuilder();
@@ -108,11 +144,20 @@ public class DisplayPanel extends JPanel {
             bw.write(sb.toString());
             bw.flush();
             bw.close();
+
+            String mov_file = file.substring(0, file.lastIndexOf('.')) +
+                    ".mov";
+            bw = new BufferedWriter(new FileWriter(mov_file));
+            bw.write(move.toString());
+            bw.flush();
+            bw.close();
         } catch (Exception e) {
             e.printStackTrace();
         }
 
+
         /*
+        currentIndex = 0;
         while (true) {
             try {
                 Thread.sleep(10);

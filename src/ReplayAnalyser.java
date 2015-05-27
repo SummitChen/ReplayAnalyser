@@ -4,9 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-/**
- * Created by megan on 20/05/2015.
- */
 public class ReplayAnalyser {
     String file;
     int mapHeight, mapWidth;
@@ -46,12 +43,13 @@ public class ReplayAnalyser {
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        sb.append("Map height " + mapHeight + ", width " + mapWidth + "\n");
+        sb.append("Map height ").append(mapHeight).append(", width ").append(
+                mapWidth).append("\n");
 
         int frame = 1;
         for (Position p : positions) {
-            sb.append("Frame " + frame++ + ", position x " + p.x + ", y " +
-                    p.y + "\n");
+            sb.append("Frame ").append(frame++).append(", position x ").append(
+                    p.x).append(", y ").append(p.y).append("\n");
         }
 
         return sb.toString();
@@ -61,7 +59,7 @@ public class ReplayAnalyser {
         String basePath = "ReplayData/";
         String outPath = "ReplayAnalysis/";
 
-        for (int i = 2; i <= 28; i++ ) {
+        for (int i = 3; i <= 28; i++ ) {
             String file = "HES0";
             if (i < 10) {
                 file += '0';

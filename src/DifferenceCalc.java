@@ -4,12 +4,10 @@ import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Created by megan on 25/05/2015.
- */
 public class DifferenceCalc {
     int maxWidth, maxHeight;
     int[][] data;
+    int[] differences;
 
     public DifferenceCalc(String file) {
         try {
@@ -42,13 +40,45 @@ public class DifferenceCalc {
         return value;
     }
 
+    public void checkFirst(StringBuilder sb) {
+        if (sb.length() != 0) {
+            sb.append(", ");
+        }
+    }
+
+    public void printGroups() {
+        StringBuilder close = new StringBuilder();
+        StringBuilder mid = new StringBuilder();
+        StringBuilder large = new StringBuilder();
+
+        int num = 2;
+        for (int difference : differences) {
+            if (difference <= 2) {
+                checkFirst(close);
+                close.append("HES").append(num);
+            } else if (difference <= 7) {
+                checkFirst(mid);
+                mid.append("HES").append(num);
+            } else {
+                checkFirst(large);
+                large.append("HES").append(num);
+            }
+            num++;
+        }
+
+        System.out.println("Close: " + close.toString());
+        System.out.println("Mid: " + mid.toString());
+        System.out.println("Large: " + large.toString());
+    }
+
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
-        sb.append("Size " + maxWidth + ", " + maxHeight + "\n");
+        sb.append("Size ").append(maxWidth).append(", ").append(
+                maxHeight).append("\n");
         for (int i = 0; i < maxWidth; i++) {
             for (int j = 0; j < maxHeight; j++) {
-                sb.append(data[i][j] + " ");
+                sb.append(data[i][j]).append(" ");
             }
         }
 
@@ -56,10 +86,10 @@ public class DifferenceCalc {
     }
 
     public static void main(String[] args) {
-        ArrayList<DifferenceCalc> diffcalcs = new ArrayList<DifferenceCalc>();
+        ArrayList<DifferenceCalc> diffCalcs = new ArrayList<DifferenceCalc>();
         String path = "ReplayAnalysis/";
         String outPath = "Differences/";
-        String type = "64x64";
+        String type = "4x4";
 
         for (int i = 2; i <= 28; i++ ) {
             String file = "/HES0";
@@ -68,18 +98,33 @@ public class DifferenceCalc {
             }
             file += i + "E.dat";
             DifferenceCalc dc = new DifferenceCalc(path + type + file);
-            diffcalcs.add(dc);
+            diffCalcs.add(dc);
+        }
+
+        for (DifferenceCalc dc : diffCalcs) {
+            dc.differences = new int[diffCalcs.size()];
         }
 
         StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < diffcalcs.size(); i++) {
-            for (int j = 0; j < diffcalcs.size(); j++) {
-                sb.append(diffcalcs.get(i).difference(diffcalcs.get(j)));
-                if (j < diffcalcs.size() - 1) {
+        for (int i = 0; i < diffCalcs.size(); i++) {
+            for (int j = 0; j < diffCalcs.size(); j++) {
+                int diff = diffCalcs.get(i).difference(diffCalcs.get(j));
+                diffCalcs.get(i).differences[j] = diff;
+                sb.append(diff);
+                if (j < diffCalcs.size() - 1) {
                     sb.append(",");
                 }
             }
             sb.append("\n");
+        }
+
+        System.out.println(sb.toString());
+
+        int num = 2;
+        for (DifferenceCalc dc : diffCalcs) {
+            System.out.println("HES" + num);
+            num++;
+            dc.printGroups();
         }
 
         try {

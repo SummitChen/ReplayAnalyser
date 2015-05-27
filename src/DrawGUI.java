@@ -1,8 +1,5 @@
 import javax.swing.*;
 
-/**
- * Created by megan on 20/05/2015.
- */
 public class DrawGUI implements Runnable {
     DisplayPanel panel;
 
