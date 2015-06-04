@@ -25,7 +25,9 @@ public class DisplayPanel extends JPanel {
     // assumes they are both the same (not always true?).  For example for the
     // exploration map of 64x64 a scale factor of 32 will divide the map into
     // a 2x2 square, a factor of 16 will be a 4x4 square and so on.
-    int scale = 8;
+    int scale = 1;
+
+    boolean heatMap = true;
 
     int currentIndex = 0;
 
@@ -42,22 +44,46 @@ public class DisplayPanel extends JPanel {
         return new Position(x, y);
     }
 
+    public int scale(int val, int maxVal) {
+        return (255 * val) / maxVal;
+    }
+
     @Override
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
 
+        int[][] visited = new int[ra.mapWidth / scale][ra.mapHeight / scale];
+        for (int i = 0; i < ra.mapWidth / scale; i++) {
+            for (int j = 0; j < ra.mapHeight / scale; j++) {
+                visited[i][j] = 0;
+            }
+        }
+        int maxVal = 0;
+
         g.drawRect(mapLeft, mapTop, ra.mapWidth * mult, ra.mapHeight * mult);
 
-        for (int i = 0; i < currentIndex - 1; i++) {
+        for (int i = 0; i < currentIndex; i++) {
             Position p = calculatePoint(ra.positions.get(i));
-            g.setColor(new Color(0x0000ff));
-            g.fillRect(mapLeft + (p.x * scale * mult), mapTop + (p.y * scale * mult),
-                    scale * mult, scale * mult);
+            visited[p.x][p.y] += 1;
+            if (visited[p.x][p.y] > maxVal) {
+                maxVal = visited[p.x][p.y];
+            }
         }
-        Position p = calculatePoint(ra.positions.get(currentIndex));
-        g.setColor(new Color(0xff00ff));
-        g.fillRect(mapLeft + (p.x * scale * mult), mapTop + (p.y * scale * mult),
-                scale * mult, scale * mult);
+
+        for (int i = 0; i < ra.mapWidth / scale; i++) {
+            for (int j = 0; j < ra.mapHeight / scale; j++) {
+                if (heatMap) {
+                    int val = scale(visited[i][j], maxVal);
+                    g.setColor(new Color(0x000000 + (val << 16)));
+                } else if (visited[i][j] == 0) {
+                    continue;
+                } else {
+                        g.setColor(new Color(0x0000ff));
+                }
+                g.fillRect(mapLeft + (i * scale * mult), mapTop + (j * scale * mult),
+                        scale * mult, scale * mult);
+            }
+        }
     }
 
     public void updatePositions(String file) {
@@ -89,7 +115,7 @@ public class DisplayPanel extends JPanel {
 
         for (int i = 0; i < currentIndex; i++) {
             Position p = calculatePoint(ra.positions.get(i));
-            visited[p.x][p.y] = 1;
+            visited[p.x][p.y] += 1;
 
             if (last == null) {
                 last = p;
@@ -98,7 +124,6 @@ public class DisplayPanel extends JPanel {
             if (last.x == p.x && last.y == p.y) {
                 continue;
             }
-            System.out.println("last " + last.toString() + ", p " + p.toString());
             if (last.x == p.x) {
                 if (last.y < p.y) {
                     move.append("D ");
@@ -131,8 +156,18 @@ public class DisplayPanel extends JPanel {
 
         for (int i = 0; i < ra.mapWidth / scale; i++) {
            for (int j = 0; j < ra.mapHeight / scale; j++) {
-                sb.append(visited[i][j]);
-                sb.append(" ");
+               if (heatMap) {
+                   sb.append(visited[i][j]);
+                   sb.append(" ");
+               } else {
+                   if (visited[i][j] == 0) {
+                       sb.append("0");
+                   } else {
+                       sb.append("1");
+                   }
+                   sb.append(" ");
+
+               }
             }
         }
         sb.append("\n");

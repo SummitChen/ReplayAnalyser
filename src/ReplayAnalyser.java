@@ -59,7 +59,7 @@ public class ReplayAnalyser {
         String basePath = "ReplayData/";
         String outPath = "ReplayAnalysis/";
 
-        for (int i = 3; i <= 28; i++ ) {
+        for (int i = 2; i <= 28; i++ ) {
             String file = "HES0";
             if (i < 10) {
                 file += '0';
