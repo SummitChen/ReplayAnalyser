@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class DifferenceCalc {
     int maxWidth, maxHeight;
+    double percent;
     int[][] data;
     int[] differences;
 
@@ -14,6 +15,7 @@ public class DifferenceCalc {
             Scanner scan = new Scanner(new File(file));
             maxHeight = scan.nextInt();
             maxWidth = scan.nextInt();
+            percent = scan.nextDouble();
             data = new int[maxWidth][maxHeight];
 
             for (int i = 0; i < maxHeight; i++) {
@@ -44,31 +46,6 @@ public class DifferenceCalc {
         }
     }
 
-    public void printGroups() {
-        StringBuilder close = new StringBuilder();
-        StringBuilder mid = new StringBuilder();
-        StringBuilder large = new StringBuilder();
-
-        int num = 2;
-        for (int difference : differences) {
-            if (difference <= 2) {
-                checkFirst(close);
-                close.append("HES").append(num);
-            } else if (difference <= 7) {
-                checkFirst(mid);
-                mid.append("HES").append(num);
-            } else {
-                checkFirst(large);
-                large.append("HES").append(num);
-            }
-            num++;
-        }
-
-        System.out.println("Close: " + close.toString());
-        System.out.println("Mid: " + mid.toString());
-        System.out.println("Large: " + large.toString());
-    }
-
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
@@ -85,7 +62,7 @@ public class DifferenceCalc {
 
     public static void main(String[] args) {
         ArrayList<DifferenceCalc> diffCalcs = new ArrayList<DifferenceCalc>();
-        String path = "ReplayAnalysis/HeatMap/";
+        String path = "ReplayAnalysis/";
         String outPath = "Differences/";
         String type = "64x64";
 
@@ -94,7 +71,7 @@ public class DifferenceCalc {
             if (i < 10) {
                 file += '0';
             }
-            file += i + "E.dat";
+            file += i + "E_pos.txt";
             DifferenceCalc dc = new DifferenceCalc(path + type + file);
             diffCalcs.add(dc);
         }
@@ -115,15 +92,6 @@ public class DifferenceCalc {
             }
             sb.append("\n");
         }
-
-
-        /*
-        int num = 2;
-        for (DifferenceCalc dc : diffCalcs) {
-            num++;
-            dc.printGroups();
-        }
-        */
 
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter(outPath + type + ".csv"));
