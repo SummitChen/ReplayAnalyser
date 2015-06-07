@@ -5,15 +5,14 @@ import java.util.List;
 import java.util.Scanner;
 
 public class ReplayAnalyser {
-    String file;
     int mapHeight, mapWidth;
 
-    // Using a simple ArrayList since we record every frame and frames
-    // increment by one each time.
+    // Using a simple ArrayList since we record every frame and frames increment by one each
+    // time.
     List<Position> positions = new ArrayList<Position>();
 
     public ReplayAnalyser(String file) {
-        this.file = file;
+
         try {
             Scanner scan = new Scanner(new File(file));
             scan.next("Map");
@@ -25,8 +24,8 @@ public class ReplayAnalyser {
                 scan.next("Frame:");
                 int frame = scan.nextInt();
                 if (frame != currentFrame) {
-                    throw new Exception("Missing a frame, expected " +
-                            currentFrame + " found " + frame);
+                    throw new Exception("Missing a frame, expected " + currentFrame + " " +
+                            "found " + frame);
                 }
                 currentFrame++;
 
@@ -37,6 +36,34 @@ public class ReplayAnalyser {
             }
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    public static void main(String[] args) {
+        String basePath = "ReplayData/";
+        String outPath = "ReplayAnalysis/";
+
+        for (int i = 2; i <= 28; i++) {
+            StringBuilder sb = new StringBuilder();
+            sb.append("HES0");
+            if (i < 10) {
+                sb.append("0");
+            }
+            sb.append(i);
+            sb.append("E");
+
+            String file = sb.toString();
+
+            ReplayAnalyser ra = new ReplayAnalyser(basePath + file + ".txt");
+
+            DisplayPanel panel = new DisplayPanel(ra);
+
+            panel.writeData(outPath, file);
+
+            // Turn on these to see a dynamic image but disable the writeData first.
+            //SwingUtilities.invokeLater(new DrawGUI(panel));
+            //panel.updatePositions();
+            //break;
         }
     }
 
@@ -53,25 +80,5 @@ public class ReplayAnalyser {
         }
 
         return sb.toString();
-    }
-
-    public static void main(String[] args) {
-        String basePath = "ReplayData/";
-        String outPath = "ReplayAnalysis/";
-
-        for (int i = 2; i <= 28; i++ ) {
-            String file = "HES0";
-            if (i < 10) {
-                file += '0';
-            }
-            file += i + "E.txt";
-            ReplayAnalyser ra = new ReplayAnalyser(basePath + file);
-
-            DisplayPanel panel = new DisplayPanel(ra);
-
-            //SwingUtilities.invokeLater(new DrawGUI(panel));
-
-            panel.updatePositions(outPath + file);
-        }
     }
 }

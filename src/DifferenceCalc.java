@@ -31,9 +31,7 @@ public class DifferenceCalc {
 
         for (int i = 0; i < maxWidth; i++) {
             for (int j = 0; j < maxHeight; j++) {
-                if (data[i][j] != other.data[i][j]) {
-                    value++;
-                }
+                value += Math.abs(data[i][j] - other.data[i][j]);
             }
         }
 
@@ -87,9 +85,9 @@ public class DifferenceCalc {
 
     public static void main(String[] args) {
         ArrayList<DifferenceCalc> diffCalcs = new ArrayList<DifferenceCalc>();
-        String path = "ReplayAnalysis/";
+        String path = "ReplayAnalysis/HeatMap/";
         String outPath = "Differences/";
-        String type = "4x4";
+        String type = "64x64";
 
         for (int i = 2; i <= 28; i++ ) {
             String file = "/HES0";
@@ -118,14 +116,14 @@ public class DifferenceCalc {
             sb.append("\n");
         }
 
-        System.out.println(sb.toString());
 
+        /*
         int num = 2;
         for (DifferenceCalc dc : diffCalcs) {
-            System.out.println("HES" + num);
             num++;
             dc.printGroups();
         }
+        */
 
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter(outPath + type + ".csv"));
