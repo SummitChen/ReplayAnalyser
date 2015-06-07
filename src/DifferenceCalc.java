@@ -1,10 +1,12 @@
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 
 public class DifferenceCalc {
+    static Map<String, double[][]> percents = new TreeMap<String, double[][]>();
+    static int percCount = 0;
+
     int maxWidth, maxHeight;
     double percent;
     int[][] data;
@@ -40,12 +42,6 @@ public class DifferenceCalc {
         return value;
     }
 
-    public void checkFirst(StringBuilder sb) {
-        if (sb.length() != 0) {
-            sb.append(", ");
-        }
-    }
-
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
@@ -63,6 +59,12 @@ public class DifferenceCalc {
     public static void calculate(String datPath, String type, String outPath) {
         ArrayList<DifferenceCalc> diffCalcs = new ArrayList<DifferenceCalc>();
 
+        double[][] vals = percents.get(type);
+        if (vals == null) {
+            vals = new double[6][27];
+            percents.put(type, vals);
+        }
+
         for (int i = 2; i <= 28; i++ ) {
             String file = "/HES0";
             if (i < 10) {
@@ -71,6 +73,8 @@ public class DifferenceCalc {
             file += i + "E";
             DifferenceCalc dc = new DifferenceCalc(datPath + file + type + ".txt");
             diffCalcs.add(dc);
+
+            vals[percCount][i - 2] = dc.percent;
         }
 
         for (DifferenceCalc dc : diffCalcs) {
@@ -91,10 +95,6 @@ public class DifferenceCalc {
         }
 
         sb.append("\n");
-        for (DifferenceCalc dc : diffCalcs) {
-            sb.append(dc.percent);
-            sb.append(" ");
-        }
 
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter(outPath + type + ".csv"));
@@ -103,6 +103,30 @@ public class DifferenceCalc {
             bw.close();
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    public static void writePercents(String path) {
+        for (Map.Entry<String, double[][]> pair : percents.entrySet()) {
+            StringBuilder sb = new StringBuilder();
+            double[][] vals = pair.getValue();
+            for (int i = 0; i < vals[0].length; i++) {
+                for (int j = vals.length - 1; j >= 0; j--) {
+                    sb.append(vals[j][i]);
+                    sb.append(",");
+                }
+                sb.append("\n");
+            }
+
+            try {
+                BufferedWriter bw = new BufferedWriter(new FileWriter(new File(path +
+                        "percent" + pair.getKey() + ".csv")));
+                bw.write(sb.toString());
+                bw.flush();
+                bw.close();
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
         }
     }
 
@@ -116,6 +140,9 @@ public class DifferenceCalc {
             calculate(path + s, "_pos_heat", outPath + s);
             calculate(path + s, "_xpl", outPath + s);
             calculate(path + s, "_xpl_heat", outPath + s);
+            percCount++;
         }
+
+        writePercents(outPath);
     }
 }
