@@ -60,19 +60,16 @@ public class DifferenceCalc {
         return sb.toString();
     }
 
-    public static void main(String[] args) {
+    public static void calculate(String datPath, String type, String outPath) {
         ArrayList<DifferenceCalc> diffCalcs = new ArrayList<DifferenceCalc>();
-        String path = "ReplayAnalysis/";
-        String outPath = "Differences/";
-        String type = "64x64";
 
         for (int i = 2; i <= 28; i++ ) {
             String file = "/HES0";
             if (i < 10) {
                 file += '0';
             }
-            file += i + "E_pos.txt";
-            DifferenceCalc dc = new DifferenceCalc(path + type + file);
+            file += i + "E";
+            DifferenceCalc dc = new DifferenceCalc(datPath + file + type + ".txt");
             diffCalcs.add(dc);
         }
 
@@ -93,6 +90,12 @@ public class DifferenceCalc {
             sb.append("\n");
         }
 
+        sb.append("\n");
+        for (DifferenceCalc dc : diffCalcs) {
+            sb.append(dc.percent);
+            sb.append(" ");
+        }
+
         try {
             BufferedWriter bw = new BufferedWriter(new FileWriter(outPath + type + ".csv"));
             bw.write(sb.toString());
@@ -100,6 +103,19 @@ public class DifferenceCalc {
             bw.close();
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
+
+    public static void main(String[] args) {
+        String path = "ReplayAnalysis/";
+        String outPath = "Differences/";
+        String[] scales = {"64x64", "32x32", "16x16", "8x8", "4x4", "2x2"};
+
+        for (String s : scales) {
+            calculate(path + s, "_pos", outPath + s);
+            calculate(path + s, "_pos_heat", outPath + s);
+            calculate(path + s, "_xpl", outPath + s);
+            calculate(path + s, "_xpl_heat", outPath + s);
         }
     }
 }
